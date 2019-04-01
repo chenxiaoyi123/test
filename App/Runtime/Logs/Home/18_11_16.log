@@ -1,0 +1,2169 @@
+[2018-11-16 09:04:56] 58.246.102.209 /book/index.php/home/api/getOrderList?query=1
+ERR: 非法操作:getOrderList
+
+[2018-11-16 09:23:39] 58.246.102.209 /book/index.php/home/api/getBannerList?query=1
+ERR: 非法操作:getBannerList
+
+[2018-11-16 09:23:40] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[lgj9dQzQ0t5ELYIf]]></nonce_str>
+<sign><![CDATA[511E814BF909CF1F38C85A4F6AD8DABA]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16092340500761a9c761edea3390267859]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 09:24:40] 58.246.102.209 /book/index.php/home/api/getBannerList?query=1
+ERR: 非法操作:getBannerList
+
+[2018-11-16 09:25:15] 58.246.102.209 /book/index.php/home/api/getBannerList?query=1
+ERR: 非法操作:getBannerList
+
+[2018-11-16 09:35:57] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[XFiXgP0s3x6JP5CP]]></nonce_str>
+<sign><![CDATA[DFF44CDF6557F267BD3CF02AF078EE8C]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16093557898459a9c761edea4000600985]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 09:36:46] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[uQo9AO9d62OnOQCi]]></nonce_str>
+<sign><![CDATA[8CBB0283896877DD803E37FE5BF0E826]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16093646597395a9c761edea3123978959]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 09:44:19] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[vnlyz4aljfnvqcmc]]></nonce_str>
+<sign><![CDATA[E6FEF2899D82C6A35561DC4A35C5FB8F]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16094419527921a9c761edea3558192811]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 09:53:18] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[XNK63RC6O6p0kZL5]]></nonce_str>
+<sign><![CDATA[B11E67A773D494AFB09AAA21D770BD96]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16095318761566a9c761edea3908528270]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 09:59:24] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[4uHjKpgotJmQMjua]]></nonce_str>
+<sign><![CDATA[1AF4D964FC6CDCCE548530DFD4434AD5]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16095924673284a9c761edea1222761404]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 09:59:44] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[sjdZOhRmuYPNGCaT]]></nonce_str>
+<sign><![CDATA[7914973785FDEDE1664C2D179E59827F]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16095944600815a9c761edea4110027543]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 09:59:48] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[XGXjOxEBe0DOeruM]]></nonce_str>
+<sign><![CDATA[326866C41757F350BDA35E431E4C6C83]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16095948834505a9c761edea2536106143]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:01:24] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[T3peawSsxavCLGto]]></nonce_str>
+<sign><![CDATA[64D7E7D3B9B70CA8E74455CA85FD096C]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100124166407a9c761edea2489930048]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:01:32] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[7Qsi4a9RSqrUKK7T]]></nonce_str>
+<sign><![CDATA[882E0EB3A11E8E17DF88CBB9160D509F]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100132275397a9c761edea1173739212]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:01:37] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[zh7CJ3MbM3Cogg4T]]></nonce_str>
+<sign><![CDATA[0DDC8ADDED97ED4855F01F4A11EC135C]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100137942594a9c761edea0517074321]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:02:14] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[DRAoAiWZAoJx6BBT]]></nonce_str>
+<sign><![CDATA[4E117AC9A5EE12B108862052350597AD]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100214297053a9c761edea2750182723]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:02:16] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Q21bAveFmQ7RWuvD]]></nonce_str>
+<sign><![CDATA[641AEDE8502A0EA48B21635F5BB2A589]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100216398962a9c761edea2521558598]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:02:23] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[csYjHW5nEgpTPPAb]]></nonce_str>
+<sign><![CDATA[C55B07ABF11C08E2F7F5E615750A4A4B]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100223128532a9c761edea0232970239]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:02:27] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[nLHUdklQFvZLmCk7]]></nonce_str>
+<sign><![CDATA[6F3B2A453046B50DB8047B24DD74C34D]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100227161159a9c761edea1448471723]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:02:31] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Nb9MKLgFl8seTHk1]]></nonce_str>
+<sign><![CDATA[5479F523BDEEF46975B04B9F42E45B6A]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100231800119a9c761edea0698994289]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:02:37] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[vy2j8dFOoElb4ZrQ]]></nonce_str>
+<sign><![CDATA[CBF500600564E105138915BA712FD939]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100237303815a9c761edea3309520900]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:02:43] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[BJu0jB4MtE6AW62R]]></nonce_str>
+<sign><![CDATA[40E5D3234D07B97D49DC32CF83BCC861]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100243642754a9c761edea0797391725]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:03:49] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[pGLSZSd0WiKusfgB]]></nonce_str>
+<sign><![CDATA[51FA06F1EB1D89AACFB66A2C442F58F1]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100349773205a9c761edea1056525470]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:04:17] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[uYMJFtNAJGqpLEGX]]></nonce_str>
+<sign><![CDATA[8D8DDC4B8180D2867347A0A1FF77F63A]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100417449202a9c761edea3477652205]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:04:39] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[z37Jg6YvQMO2bYvW]]></nonce_str>
+<sign><![CDATA[52846CD0240FDECA6FA5A765DC2F8E13]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100439264617a9c761edea0501058310]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:04:51] 101.89.29.86 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[EuD2GrA1wNXzstCv]]></nonce_str>
+<sign><![CDATA[90779FF6A67104D54406509E9BFC5426]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100451234293a9c761edea0582788020]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:05:04] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[QjbJbm2qgeIdBI7h]]></nonce_str>
+<sign><![CDATA[D78788949C9970783E7DDB3006A0477D]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100504961929a9c761edea1043797879]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:05:45] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[k6WWdXwNfOqfjyqH]]></nonce_str>
+<sign><![CDATA[6A588CB8445C45CF0339B82F0E376C54]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100545350044a9c761edea2537258267]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:07:20] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[VqEbEucCULvxwVae]]></nonce_str>
+<sign><![CDATA[FCDF6B7AACDEB8D7AB5F757E28AC5EE1]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100720956996a9c761edea0759740363]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:08:11] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[PbNVWoNpoK7RbHiG]]></nonce_str>
+<sign><![CDATA[CEC1C970D6DFA3E239AA8F6D939E31A3]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100811105617a9c761edea3393419955]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:08:27] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[mH3Cjj3Z9QVaA9Cm]]></nonce_str>
+<sign><![CDATA[FF891AC6F5D3D09EE7C76AAE652299A3]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100827711385a9c761edea1078923368]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:09:35] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[8ymjVMogPzNtjkbE]]></nonce_str>
+<sign><![CDATA[56228F060A894557495BD1057F9E3981]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100935306088a9c761edea1535239160]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:09:37] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Dnm1E6bMwR0tP5mA]]></nonce_str>
+<sign><![CDATA[E42CDE20A012104C067B79DF90866835]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16100937834116a9c761edea0087089699]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:10:39] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[A1Mh4IUAdGCIORE5]]></nonce_str>
+<sign><![CDATA[968A92228D5A8F7470975B80C707E8F9]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16101039237396a9c761edea0199317421]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:13:26] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[3EetY2AXFVO9YBQW]]></nonce_str>
+<sign><![CDATA[83BDFCBC1AEF479B00EB30384BD57EDB]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16101326114376a9c761edea0454575451]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:13:27] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Xb4FIWbzlxJzlnTO]]></nonce_str>
+<sign><![CDATA[6920ECB9C4B8CAE86E62E811C239F48F]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16101327185296a9c761edea0074066295]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:13:27] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[gq3mQXl73lpphRk1]]></nonce_str>
+<sign><![CDATA[6B040133D29AF4862A909683D0F79FD1]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16101327845709a9c761edea1068068241]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:13:33] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[3NAE8RmZB55sWXCb]]></nonce_str>
+<sign><![CDATA[F08915B4008AAA32BCD449DB34AAACE5]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16101333276593a9c761edea2020946163]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:14:15] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[aUeVOso3uk5Vslrt]]></nonce_str>
+<sign><![CDATA[22E7B63E44F0A00A4FE91CBB04E7534F]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16101415074485a9c761edea2926221941]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:16:21] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[eJqK3lPO3tSJKeli]]></nonce_str>
+<sign><![CDATA[30D413B62C88BD3442EE249BE695CB91]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16101621108143a9c761edea1297116312]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:18:47] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[0DutCgfE0RHXohLS]]></nonce_str>
+<sign><![CDATA[C71C902A73CF468058752252AE733C20]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16101847665182a9c761edea0155562275]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:22:36] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[xRgsfzUd5qOlKKM2]]></nonce_str>
+<sign><![CDATA[7E25575884E2B6F40E7044A1298F1235]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16102236698395a9c761edea3059694219]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:23:03] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[OUEAalyt9J0Ws0Tl]]></nonce_str>
+<sign><![CDATA[E5AF0D8166115A1826960DDB79A9A13B]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16102303745104a9c761edea0840976472]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:23:50] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[HtuE8WLUTOe6yVNB]]></nonce_str>
+<sign><![CDATA[593EB10C42F5B6CB209015D604C4CCB6]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16102350569776a9c761edea2831265756]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:26:26] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[jbQMU8cwvMNAwPbv]]></nonce_str>
+<sign><![CDATA[5D84051DE737AFBF47BB93FB2C14EA03]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16102626911480a9c761edea2385414685]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:27:20] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[s23oWEFt3wBZSNMQ]]></nonce_str>
+<sign><![CDATA[0FB6C8F772B7FDFD5B849856F5A32263]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16102720889440a9c761edea1415484605]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:27:44] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[W0Ln4Kppx90saPWt]]></nonce_str>
+<sign><![CDATA[7FC5DEDD219FE5F43734D93F3BB7A9AA]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16102744419418a9c761edea1994914970]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:28:58] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[hsFuF2h4EKJeikvH]]></nonce_str>
+<sign><![CDATA[6BAEDDB33B115E30F0AB49F85C9CB649]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16102858603743a9c761edea1593286730]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:29:39] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[JO1g1fp40UaAPLla]]></nonce_str>
+<sign><![CDATA[C83B5B299324B2EE8ED23C12943D717B]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16102939215657a9c761edea0861345810]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:30:05] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[eJc7g1Myw92ymdDx]]></nonce_str>
+<sign><![CDATA[7E725FCB0049FE075123A7800FF1BF20]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16103005887683a9c761edea0776330967]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:30:16] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[MBFoTZc0To8iRXw0]]></nonce_str>
+<sign><![CDATA[1CC4E2DA73C9CB9FA81EB6862FEAA05B]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16103016838752a9c761edea4238906073]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:36:28] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[O5eXmZRXtSy4aoGc]]></nonce_str>
+<sign><![CDATA[1F3C16D1C82BE46770EC27F44277303C]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16103628129979a9c761edea2708814711]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:36:43] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[nBdqDsWfHgJprGAx]]></nonce_str>
+<sign><![CDATA[8387FC829BF478404900ED4A14635CF5]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16103643474100a9c761edea3363336170]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:36:50] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[PhYXfQ2MtV42XZrq]]></nonce_str>
+<sign><![CDATA[FE42AF3EE91058FC9232A270B503D283]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16103650617499a9c761edea1598188461]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:37:08] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[aSDLFZb7SM25qDFU]]></nonce_str>
+<sign><![CDATA[A1DD4793E70F5AE94CEFB9849B5C9991]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16103708601977a9c761edea2869457574]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:37:31] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[obSFM7b30vbQ6Vwa]]></nonce_str>
+<sign><![CDATA[8982752F87C3153D0CBBFC27B09CCA4D]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16103731252900a9c761edea2998916809]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:38:54] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[ftn5lC2GXr3gBjy2]]></nonce_str>
+<sign><![CDATA[CB97227D1E641141DF604EB920C2C499]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16103854712299a9c761edea2072191182]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:39:42] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[MP3StVSLkwe6mngr]]></nonce_str>
+<sign><![CDATA[615FC276DB6B41D615E01D455CC9B5EE]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16103942628218a9c761edea2964078618]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:39:54] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[AEVfr5L1ZNOGH5Ad]]></nonce_str>
+<sign><![CDATA[4F4C01DE8C5E2D42E38FBFEE1F1B5567]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16103954100444a9c761edea0597442861]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:41:59] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[1RN8ufJrYyNwz3u3]]></nonce_str>
+<sign><![CDATA[2FE4BA4A818DEFE250FDE4C5364D895F]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104159877554a9c761edea0274849775]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:42:53] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[xnsKy9z6SS9zu05I]]></nonce_str>
+<sign><![CDATA[3D508842019A08CE4725C4F43122D01A]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104253307382a9c761edea0677639163]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:43:52] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[zVSL9UWxXoYLe3Bt]]></nonce_str>
+<sign><![CDATA[D8ABBCC74B0B9FA2F9D77AF42BF5C783]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104352122934a9c761edea1249338496]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:44:02] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[vzpxYh1H4UU9rTmZ]]></nonce_str>
+<sign><![CDATA[CEC12779F037C321BC2631717270E239]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104402645713a9c761edea1923495270]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:44:53] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[41qwkTQvhi9k2re1]]></nonce_str>
+<sign><![CDATA[2422E5BF941BA99B64B757B6DED2764E]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104453920996a9c761edea1583533351]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:45:08] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[aCys2lqZVs2rT411]]></nonce_str>
+<sign><![CDATA[F7EF0198F16C82D9F951C9AB67F48F49]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104508131785a9c761edea3273111695]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:45:12] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[OPRHBLYlS5ZeOI6r]]></nonce_str>
+<sign><![CDATA[AC7A1D1D64EA3B9C8F77F15F91685921]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104512492932a9c761edea3503819050]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:45:21] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[5h1Dg6Bpar9wThiz]]></nonce_str>
+<sign><![CDATA[DC8D99D2D9354312132B10B6D42FE9F0]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104521446055a9c761edea1101652344]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:45:51] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[OiL9Sig6UyLbimU4]]></nonce_str>
+<sign><![CDATA[B52D4CB7EA83CF3D8B2E75137811D981]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104551888980a9c761edea3934390378]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:46:05] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[rXoBaZxT34bPJ0mi]]></nonce_str>
+<sign><![CDATA[E4D8BE2DF6A7639434844426FDE2A85F]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104605966573a9c761edea0428387897]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:46:09] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[929QTiXMusfcnNNf]]></nonce_str>
+<sign><![CDATA[E5E807010C7643996C1A4D13CD32B0B9]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104609932361a9c761edea0425987734]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:46:20] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[tb7Z9YS466fV2v8Z]]></nonce_str>
+<sign><![CDATA[4BD4E75B1E5D4A8FE5798B9C937D1ED8]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104620686648a9c761edea1872354420]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:46:30] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[nPfuJKPMaxF8icyq]]></nonce_str>
+<sign><![CDATA[C407A9C03F4D081360F8CC0CCBAE8D35]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104630774178a9c761edea1009043262]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:46:44] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[JC7Mka6JA7azfJlE]]></nonce_str>
+<sign><![CDATA[2F68E1A07E8BF77C956616D9275C0D85]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104644041837a9c761edea2057317913]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:46:47] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[39sxofJ8Z7PopQLu]]></nonce_str>
+<sign><![CDATA[13E48ABA0ADE4BE4F207625FEA9008A0]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104647987993a9c761edea0891226780]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:46:51] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[zomWnnHy5lvjqN5g]]></nonce_str>
+<sign><![CDATA[BA83172E0DA2B2255FDF0CEC04BD482D]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104651470529a9c761edea3851881594]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:46:56] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[uJsq5mDEWU7CUwzy]]></nonce_str>
+<sign><![CDATA[0AEDB732F111DB8109CE97E8B1ECB145]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104656482852a9c761edea1721983119]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:46:58] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[KVoTRUm3BMpTlMCw]]></nonce_str>
+<sign><![CDATA[EE11AF5C7B52BEDAEC32A2023215A14B]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104658977755a9c761edea1565203233]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:47:02] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[VcS6zZvsSe2oLBPm]]></nonce_str>
+<sign><![CDATA[257E7EE3208C183ABDF8BAC5FC308ADE]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104702055042a9c761edea2773210098]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:47:15] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[wDeuaQ1ZvJXxflSW]]></nonce_str>
+<sign><![CDATA[CA71AE8277B2BB096C2330D1DBA2BC46]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104715511895a9c761edea3200672587]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:47:20] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[ip6DpjY94flDNywp]]></nonce_str>
+<sign><![CDATA[123FD5CD19933F318B37A067C5A2FE2F]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104720200891a9c761edea0399447552]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:47:23] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[fGO0SywMsumvWP4q]]></nonce_str>
+<sign><![CDATA[A7058262410D6A1937C3E7126B12889E]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104723534488a9c761edea1270225534]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:47:40] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[19DGrAAW5TsofA0Z]]></nonce_str>
+<sign><![CDATA[6086B1E384243129D1DC9E6418727005]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104740859464a9c761edea0367264914]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:47:54] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[DI49MfI2p8B6gNm5]]></nonce_str>
+<sign><![CDATA[EC6C75CD2940E5E1BBE82E6EDFCF983B]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104754218281a9c761edea2821108916]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:48:05] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[mWvfBJ0BdW01F5AO]]></nonce_str>
+<sign><![CDATA[A31FD8DA389DD37682CE7E7DDED69CE7]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104805650663a9c761edea3718881841]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:48:09] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[wWIqeS7M11ujwbso]]></nonce_str>
+<sign><![CDATA[0B5B2C5C9B9A8EFAEFF8734078C7539C]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104809070042a9c761edea3992724465]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:48:11] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[mVhlJ5RugQuYFxCk]]></nonce_str>
+<sign><![CDATA[A2DF134B813CAD897CF7C0C6693E04CC]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16104811594525a9c761edea1389494303]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:58:28] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[sJOaai94Lofwdj4M]]></nonce_str>
+<sign><![CDATA[A70A64F21131BD02A616C10522B0132A]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16105828081603a9c761edea3650343472]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 10:58:37] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Aqm1jRxw2T4Mz4wf]]></nonce_str>
+<sign><![CDATA[2914FFB55354870DB46091BCDD34CC32]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16105837098285a9c761edea4091999245]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 11:51:00] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[4WSbySyyqZInErnm]]></nonce_str>
+<sign><![CDATA[2171C6342AB5BEEEE96CF86A6D4FA177]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx1611510080965926557f16112127346940]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 11:51:05] 140.207.54.76 /book/index.php/Home/Wxpay/Notify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[kvk6b6usW8KFppqS8]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542340260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[72925DE07E8D53A3E96FF946695608A3]]></sign>
+<time_end><![CDATA[20181116115105]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000231201811166624394963]]></transaction_id>
+</xml>
+
+[2018-11-16 11:51:24] 140.207.54.75 /book/index.php/Home/Wxpay/Notify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[kvk6b6usW8KFppqS8]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542340260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[72925DE07E8D53A3E96FF946695608A3]]></sign>
+<time_end><![CDATA[20181116115105]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000231201811166624394963]]></transaction_id>
+</xml>
+
+[2018-11-16 11:51:41] 140.207.54.76 /book/index.php/Home/Wxpay/Notify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[kvk6b6usW8KFppqS8]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542340260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[72925DE07E8D53A3E96FF946695608A3]]></sign>
+<time_end><![CDATA[20181116115105]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000231201811166624394963]]></transaction_id>
+</xml>
+
+[2018-11-16 11:52:13] 140.207.54.76 /book/index.php/Home/Wxpay/Notify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[kvk6b6usW8KFppqS8]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542340260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[72925DE07E8D53A3E96FF946695608A3]]></sign>
+<time_end><![CDATA[20181116115105]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000231201811166624394963]]></transaction_id>
+</xml>
+
+[2018-11-16 11:55:25] 101.226.103.61 /book/index.php/Home/Wxpay/Notify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[kvk6b6usW8KFppqS8]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542340260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[72925DE07E8D53A3E96FF946695608A3]]></sign>
+<time_end><![CDATA[20181116115105]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000231201811166624394963]]></transaction_id>
+</xml>
+
+[2018-11-16 12:25:13] 140.207.54.73 /book/index.php/Home/Wxpay/Notify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[kvk6b6usW8KFppqS8]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542340260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[72925DE07E8D53A3E96FF946695608A3]]></sign>
+<time_end><![CDATA[20181116115105]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000231201811166624394963]]></transaction_id>
+</xml>
+
+[2018-11-16 12:55:15] 140.207.54.73 /book/index.php/Home/Wxpay/Notify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[kvk6b6usW8KFppqS8]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542340260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[72925DE07E8D53A3E96FF946695608A3]]></sign>
+<time_end><![CDATA[20181116115105]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000231201811166624394963]]></transaction_id>
+</xml>
+
+[2018-11-16 13:25:17] 140.207.54.73 /book/index.php/Home/Wxpay/Notify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[kvk6b6usW8KFppqS8]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542340260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[72925DE07E8D53A3E96FF946695608A3]]></sign>
+<time_end><![CDATA[20181116115105]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000231201811166624394963]]></transaction_id>
+</xml>
+
+[2018-11-16 13:55:19] 140.207.54.76 /book/index.php/Home/Wxpay/Notify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[kvk6b6usW8KFppqS8]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542340260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[72925DE07E8D53A3E96FF946695608A3]]></sign>
+<time_end><![CDATA[20181116115105]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000231201811166624394963]]></transaction_id>
+</xml>
+
+[2018-11-16 14:20:11] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[CeTkBzmnfJaGbHtH]]></nonce_str>
+<sign><![CDATA[2BE8ABC251C07E58935180BD401C0513]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16142011850189b8ca747e773146189641]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 14:22:55] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Csg1lx5XIRjIshzh]]></nonce_str>
+<sign><![CDATA[65D5A59530D45881B1BD4BEE837B96F2]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx161422550710579a77d9a2b52732479580]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 14:23:26] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[total_fee参数长度有误]]></return_msg>
+</xml>
+
+[2018-11-16 14:23:35] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[total_fee参数长度有误]]></return_msg>
+</xml>
+
+[2018-11-16 14:24:00] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Ir33OThU5SsgpD1L]]></nonce_str>
+<sign><![CDATA[9DF24490CA0905475D775EB665272901]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16142400176804a40237a6c20295219250]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 14:25:21] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+
+[2018-11-16 14:26:29] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+
+[2018-11-16 14:26:53] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+
+[2018-11-16 14:27:09] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+
+[2018-11-16 14:27:39] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[FGa5rnp8y3G6ysZX]]></nonce_str>
+<sign><![CDATA[E2DEC994D8C872F6072FAA33E5157352]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx161427395262027df2e4c8df2594099475]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 14:53:32] 58.246.102.209 /book/index.php/Home/Wxpay/JsApiPay
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[ITY5etFpyEaYIotf]]></nonce_str>
+<sign><![CDATA[D83190C1BEC9C868BD5EF03647FDAE9A]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16145332588844360ab47cf41033564954]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 14:54:59] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[fO78N9wcrKtooM1w]]></nonce_str>
+<sign><![CDATA[07666D3A39A3B7EA007DF165FED75A07]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16145459733979d90d200fa10758234399]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 14:55:21] 140.207.54.73 /book/index.php/Home/Wxpay/Notify
+ERR: 非法操作:Notify
+
+[2018-11-16 15:20:15] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[5bBPVmWJhyPQ7HcC]]></nonce_str>
+<sign><![CDATA[62BECC9BC5A560F3F62015A37E897B4A]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx161520158480477ac48ea36b1568482638]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 15:20:46] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[WBiaxRqw6Oz9TU24]]></nonce_str>
+<sign><![CDATA[15B847190C997E656A6E2276435C245F]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx161520465879297659bf37b30095608224]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 15:35:39] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Fq4wWhymQRXHiUHC]]></nonce_str>
+<sign><![CDATA[447FC5003D2514035A81652AA703F16B]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx161535397455687d11aa6e062994716093]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 15:43:38] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[VdtiuB6d6yNjcsjR]]></nonce_str>
+<sign><![CDATA[1F1021547710FB66FF52D6C1C9A98382]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16154338594753f3f2d22ddd4237725819]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 15:43:58] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[ICAB8DkFm2EHGi3p]]></nonce_str>
+<sign><![CDATA[B975FA63756CDCC6DA111D1A27E81871]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx161543585015054b3f9f8e0a2232243976]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 15:44:06] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[MGT3lZMdE97wzLrr]]></nonce_str>
+<sign><![CDATA[4A2A347F9B4CB3FAE7D0AF66A88248C8]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16154406010053e5d603c5fe2957856112]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 15:44:20] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[fsdLHIMa3XtYk6qw]]></nonce_str>
+<sign><![CDATA[E6192FFF31701AE525C79B99C44D621B]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16154420890892b4b829b61d1578930696]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 15:44:25] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[tiydrbeci01xiz1U]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542354260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EEFC28D13B850FF9097677760B26F6B8]]></sign>
+<time_end><![CDATA[20181116154425]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000230201811162475574126]]></transaction_id>
+</xml>
+
+[2018-11-16 15:44:41] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[tiydrbeci01xiz1U]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542354260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EEFC28D13B850FF9097677760B26F6B8]]></sign>
+<time_end><![CDATA[20181116154425]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000230201811162475574126]]></transaction_id>
+</xml>
+
+[2018-11-16 15:44:57] 58.251.80.62 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[tiydrbeci01xiz1U]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542354260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EEFC28D13B850FF9097677760B26F6B8]]></sign>
+<time_end><![CDATA[20181116154425]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000230201811162475574126]]></transaction_id>
+</xml>
+
+[2018-11-16 15:45:27] 140.207.54.75 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[tiydrbeci01xiz1U]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542354260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EEFC28D13B850FF9097677760B26F6B8]]></sign>
+<time_end><![CDATA[20181116154425]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000230201811162475574126]]></transaction_id>
+</xml>
+
+[2018-11-16 15:48:28] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[tiydrbeci01xiz1U]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542354260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EEFC28D13B850FF9097677760B26F6B8]]></sign>
+<time_end><![CDATA[20181116154425]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000230201811162475574126]]></transaction_id>
+</xml>
+
+[2018-11-16 16:08:13] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[OIGuHd9WhoBxTncR]]></nonce_str>
+<sign><![CDATA[CA5326A41809F750A346CAA8D4949EAD]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16160813031151c3188083523731848361]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:08:17] 140.207.54.76 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[AjGakrIN9TNIEys7L]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542355692]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[82FEE4A2C2E2D1B99742BD4F78F8B7E3]]></sign>
+<time_end><![CDATA[20181116160817]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000229201811162908126838]]></transaction_id>
+</xml>
+
+[2018-11-16 16:08:33] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[AjGakrIN9TNIEys7L]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542355692]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[82FEE4A2C2E2D1B99742BD4F78F8B7E3]]></sign>
+<time_end><![CDATA[20181116160817]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000229201811162908126838]]></transaction_id>
+</xml>
+
+[2018-11-16 16:08:48] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[AjGakrIN9TNIEys7L]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542355692]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[82FEE4A2C2E2D1B99742BD4F78F8B7E3]]></sign>
+<time_end><![CDATA[20181116160817]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000229201811162908126838]]></transaction_id>
+</xml>
+
+[2018-11-16 16:09:19] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[AjGakrIN9TNIEys7L]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542355692]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[82FEE4A2C2E2D1B99742BD4F78F8B7E3]]></sign>
+<time_end><![CDATA[20181116160817]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000229201811162908126838]]></transaction_id>
+</xml>
+
+[2018-11-16 16:12:20] 140.207.54.76 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[AjGakrIN9TNIEys7L]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542355692]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[82FEE4A2C2E2D1B99742BD4F78F8B7E3]]></sign>
+<time_end><![CDATA[20181116160817]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000229201811162908126838]]></transaction_id>
+</xml>
+
+[2018-11-16 16:18:31] 140.207.54.75 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[tiydrbeci01xiz1U]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542354260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EEFC28D13B850FF9097677760B26F6B8]]></sign>
+<time_end><![CDATA[20181116154425]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000230201811162475574126]]></transaction_id>
+</xml>
+
+[2018-11-16 16:23:57] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[gHuKMKaewq6wlfsp]]></nonce_str>
+<sign><![CDATA[56B0DA505B58B825DDA36198DFBE54EA]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16162357634980653352d8590264276563]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:28:34] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[GiG6mXK8GmcXpysC]]></nonce_str>
+<sign><![CDATA[C63CB97D99B9F64B73759D0EA56CC70F]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16162834381235d4c3c9e8184242469739]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:34:02] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[T1qiUSvMQO80GlPI]]></nonce_str>
+<sign><![CDATA[DEF1F8A6FC70DBD2784ADC365C5FCC0D]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx1616340290208277b021f0472749574460]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:34:35] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[QaznGwNzzOfByfka]]></nonce_str>
+<sign><![CDATA[6E27DD3672369F5C3D0D28F5B731D8BE]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx1616343581636116979e59f41390686734]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:34:51] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[lbh9IFqeO4aY7Lbr]]></nonce_str>
+<sign><![CDATA[5A160A5F218BFB566BD0189EFD5553B0]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16163451449288678523b1750434218960]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:39:48] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[pioJGdKG3WpTMbaK]]></nonce_str>
+<sign><![CDATA[E10982E22334C4AC64007C0C1B4BFEC0]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx1616394885661217afa27cd61777457324]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:40:18] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[cv54fJok3c0zyZeY]]></nonce_str>
+<sign><![CDATA[75CDD4EAAA69D02F40E0EE8C62C3F439]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx161640181742817b2cee08db1024603073]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:40:55] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[mb0NwNdAb96dnbCv]]></nonce_str>
+<sign><![CDATA[03115974448CEFBE7B98F1ABAF31F19B]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16164055874896fcff3704560301297062]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:47:45] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[CQWtQQfrjKJ0Cje0]]></nonce_str>
+<sign><![CDATA[36914EE334DC5C25D789D8FF219E1E51]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx161647452607071c658f37d10768171556]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:47:59] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[LoGLFnwGCbCDnLgm]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542358065]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[98AE9E1BE8C5D56A7E8F05C00D99F1DE]]></sign>
+<time_end><![CDATA[20181116164758]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000215201811162839525529]]></transaction_id>
+</xml>
+
+[2018-11-16 16:48:15] 140.207.54.76 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[LoGLFnwGCbCDnLgm]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542358065]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[98AE9E1BE8C5D56A7E8F05C00D99F1DE]]></sign>
+<time_end><![CDATA[20181116164758]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000215201811162839525529]]></transaction_id>
+</xml>
+
+[2018-11-16 16:48:30] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[LoGLFnwGCbCDnLgm]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542358065]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[98AE9E1BE8C5D56A7E8F05C00D99F1DE]]></sign>
+<time_end><![CDATA[20181116164758]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000215201811162839525529]]></transaction_id>
+</xml>
+
+[2018-11-16 16:48:32] 140.207.54.76 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[tiydrbeci01xiz1U]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542354260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EEFC28D13B850FF9097677760B26F6B8]]></sign>
+<time_end><![CDATA[20181116154425]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000230201811162475574126]]></transaction_id>
+</xml>
+
+[2018-11-16 16:49:01] 140.207.54.74 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[LoGLFnwGCbCDnLgm]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542358065]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[98AE9E1BE8C5D56A7E8F05C00D99F1DE]]></sign>
+<time_end><![CDATA[20181116164758]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000215201811162839525529]]></transaction_id>
+</xml>
+
+[2018-11-16 16:51:03] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Xjv1DCEGOPbO43km]]></nonce_str>
+<sign><![CDATA[828F075F27405868E97D9929DEB90A5D]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx1616510394551644ef897a6e2652706406]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:51:21] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[fH0pQywdMziwgAit]]></nonce_str>
+<sign><![CDATA[1F0A2365F0071B314372EC3E0DF5DDF6]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx1616512168885090890235b21087672987]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 16:51:37] 140.207.54.74 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[iWjWSRQ5ShHedmVkO]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542358281]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[D876D0F37FC171C4EEEC0DD12B35A124]]></sign>
+<time_end><![CDATA[20181116165137]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000215201811169250705577]]></transaction_id>
+</xml>
+
+[2018-11-16 16:51:53] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[iWjWSRQ5ShHedmVkO]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542358281]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[D876D0F37FC171C4EEEC0DD12B35A124]]></sign>
+<time_end><![CDATA[20181116165137]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000215201811169250705577]]></transaction_id>
+</xml>
+
+[2018-11-16 16:52:01] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[LoGLFnwGCbCDnLgm]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542358065]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[98AE9E1BE8C5D56A7E8F05C00D99F1DE]]></sign>
+<time_end><![CDATA[20181116164758]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000215201811162839525529]]></transaction_id>
+</xml>
+
+[2018-11-16 16:52:09] 140.207.54.74 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[iWjWSRQ5ShHedmVkO]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542358281]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[D876D0F37FC171C4EEEC0DD12B35A124]]></sign>
+<time_end><![CDATA[20181116165137]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000215201811169250705577]]></transaction_id>
+</xml>
+
+[2018-11-16 16:52:41] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[iWjWSRQ5ShHedmVkO]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542358281]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[D876D0F37FC171C4EEEC0DD12B35A124]]></sign>
+<time_end><![CDATA[20181116165137]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000215201811169250705577]]></transaction_id>
+</xml>
+
+[2018-11-16 16:55:42] 140.207.54.75 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[iWjWSRQ5ShHedmVkO]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542358281]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[D876D0F37FC171C4EEEC0DD12B35A124]]></sign>
+<time_end><![CDATA[20181116165137]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000215201811169250705577]]></transaction_id>
+</xml>
+
+[2018-11-16 16:58:06] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[FqxwbMV1hUkIO7cMA]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542356637]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[DCF093386E631D926EF53AAAE052F8EE]]></sign>
+<time_end><![CDATA[20181116162402]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000214201811160808798989]]></transaction_id>
+</xml>
+
+[2018-11-16 17:06:44] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[RCwjxxwArWyzZ2UB]]></nonce_str>
+<sign><![CDATA[E4A4D6760E18E75F7AC387ACF276E549]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx1617064457010419a18bef9b0240314914]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 17:06:53] 140.207.54.76 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Rp0pfQP1eQl6TlInp]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542359204]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[0ADE317E83E45160AA8A87857EBC5A0F]]></sign>
+<time_end><![CDATA[20181116170652]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000232201811165128665869]]></transaction_id>
+</xml>
+
+[2018-11-16 17:07:57] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[KwWK9VCkcr095FsgX]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542356914]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[074EA8744854DC221AF42DD965E3A487]]></sign>
+<time_end><![CDATA[20181116163353]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000233201811162106912569]]></transaction_id>
+</xml>
+
+[2018-11-16 17:09:04] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[pEqw86P0JJaKb2EEt]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542357291]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[1A90D5F17F983DA0E6DBFD098D42A3EC]]></sign>
+<time_end><![CDATA[20181116163459]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000235201811161525819674]]></transaction_id>
+</xml>
+
+[2018-11-16 17:10:30] 58.246.102.209 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[QmYnKOTEuhcbcwox]]></nonce_str>
+<sign><![CDATA[22D33326F9B54525335B8B1D10BE2D11]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx16171030224953bcabf709b20481508538]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-16 17:10:44] 140.207.54.76 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[EILx8YLVdEEn76RX8]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542359430]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[6FDE23EA32966044D9C1256777D6C631]]></sign>
+<time_end><![CDATA[20181116171043]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000233201811160750157957]]></transaction_id>
+</xml>
+
+[2018-11-16 17:12:23] 140.207.54.76 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[AjGakrIN9TNIEys7L]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542355692]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[82FEE4A2C2E2D1B99742BD4F78F8B7E3]]></sign>
+<time_end><![CDATA[20181116160817]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000229201811162908126838]]></transaction_id>
+</xml>
+
+[2018-11-16 17:15:15] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[fiGALqYdj7Q2GtI6S]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542357655]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[520E462D3E122E4877CB8BFEE4168297]]></sign>
+<time_end><![CDATA[20181116164109]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000236201811168160774829]]></transaction_id>
+</xml>
+
+[2018-11-16 17:18:34] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[tiydrbeci01xiz1U]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[SHCM_1542354260]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EEFC28D13B850FF9097677760B26F6B8]]></sign>
+<time_end><![CDATA[20181116154425]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000230201811162475574126]]></transaction_id>
+</xml>
+

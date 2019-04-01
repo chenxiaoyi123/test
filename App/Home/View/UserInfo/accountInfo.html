@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<!--废弃-->
+<head>
+    <meta charset="UTF-8">
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <script>
+        (function (doc, win) {
+            var docEl = doc.documentElement,
+                resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+                recalc = function () {
+                    var clientWidth = docEl.clientWidth;
+                    if (!clientWidth) return;
+                    if (clientWidth >= 640) {
+                        docEl.style.fontSize = '100px';
+                    } else {
+                        docEl.style.fontSize = 100 * (clientWidth / 640) + 'px';
+                    }
+                };
+            if (!doc.addEventListener) return;
+            win.addEventListener(resizeEvt, recalc, false);
+            doc.addEventListener('DOMContentLoaded', recalc, false);
+            
+            /*var w;
+            (function startWorker()
+            {
+            if(typeof(Worker)!=="undefined")
+            {
+              if(typeof(w)=="undefined")
+                {
+                    w=new Worker("{$public_url}/Js/history_work.js");
+                    w.onmessage = function(event){
+                        var res = event.data;
+                        var month = ''+new Date().getMonth();
+                        if(month.length == 1){
+                            month = '0'+month;
+                        }
+                        var year = new Date().getFullYear();
+                        var cycleId = year+''+month; 
+                        var type = 'esim';
+                        if(sessionStorage.getItem(type+'_'+cycleId)){
+                            return;
+                        }
+                        res = JSON.parse(res);
+                        if(res.history_bill.status == -3){
+                            sessionStorage.setItem(type+'_'+cycleId,JSON.stringify(res));
+                        }else if(res.history_bill.status){
+
+                        }else{
+                            sessionStorage.setItem(type+'_'+cycleId,JSON.stringify(res));
+                        }                            
+                    }
+                }
+            }
+            })();   */      
+            
+        })(document, window);
+    </script>
+    <script>
+
+    </script>
+    <style>body .demo-class .layui-layer-btn{font-size: 0.24rem}</style>
+    <title>个人中心</title>
+</head>
+
+<body>
+    <div class="content">
+        <div class="zhan"></div><span class="zhan-span"><b>eSIM账号：</b></span>
+        <p class="p1">您的套餐使用情况如下:</p>
+        <div id="esim">
+        </div>
+        <button class="gocheck" id="btn-esim">点击查询</button>
+    </div>
+    <div class="content">
+        <div class="zhan"></div><span class="zhan-span"><b>华为手表：</b></span>
+        <p class="p1">您的套餐使用情况如下:</p>
+        <div id="hw">
+        </div>
+        <button class="gocheck" id="btn-hw"  >点击查询</button>
+    </div>
+
+    <link href="{$public_url}/Css/css.css?v=2.5" rel="stylesheet" />
+    <script src="{$public_url}/layer-v3.0.3/layer/layer.js"></script>
+    <script>
+        $(function () {
+            // $(".show-mess").hide();
+            $("#btn-esim").click(function () {
+                layer.msg('正在查询中 . . .', {
+                    icon: 16
+                    , time: 10000
+                });
+                  $("#btn-esim").attr("disabled","disabled")
+                $("#btn-hw").attr("disabled","disabled")
+                $.ajax({
+                    type: "get",
+                    url: "{:U('home/userInfo/getexpense/type/esim','',false,true)}",
+                    success: function (res) {
+                          $("#btn-hw").removeAttr("disabled");
+                           $("#btn-esim").removeAttr("disabled");
+                        //res = $.parseJSON(res);
+                        layer.closeAll("dialog");    
+                        if(res['status'] && res['status'] == -2){
+                            //未绑定账号
+                            layer.confirm('您还未绑定，是否前往绑定？', {    
+                            skin: 'layui-layer-molv', //样式类名
+                           skin: 'demo-class',
+                            btn: ['绑定','取消'] //按钮
+                                 }, function(){
+                                     window.location.href='{:U('home/index/showAccount/accountType/esim','',false,true)}';
+                                 }
+                            );
+                        }else if(res['status']){
+                            //出错
+                            layer.alert(res['msg'], {
+                                 skin: 'layui-layer-lan', //样式类名
+                                 skin: 'demo-class'
+                                ,closeBtn: 0
+                                   });
+                           
+                        }else{
+                             $("#btn-esim").hide();                           
+                             var str = '<div class="show-mess">'
+                             + '<div class="message">账户余额：'+ res.telephone_bill.TotalBalance + '元<span class="mess-span">'
+                             +  '</span></div>' + ' <div class="message1">实时话费：'+ res.realtime_bill.RealFee + '元<span class="mess-span"> ' 
+                             +  '</span></div>' + '  <div class="message1">国内流量剩余：'+ res.flow.GPRSLeftInternal +'M<span class="mess-span">'
+                             + '</span></div>' + ' <div class="message1">历史账单：<a href="{:U('home/userInfo/showexpensepage/flag/history?title=esim','',false,true)}" class="mess-span">查看详情</a></div>'
+                             + '</div>';
+                             $("#esim").children().remove();
+                             $("#esim").append(str);
+                        }
+                    },
+                    error: function () {
+                        layer.closeAll("dialog");   
+                        $("#btn-hw").removeAttr("disabled");
+                        $("#btn-esim").attr("disabled","disabled")
+                    }
+                })
+            });
+        })
+            $(function () {
+            $(".show-mess").hide();
+            $("#btn-hw").click(function () {
+                layer.msg('正在查询中 . . .', {
+                    icon: 16
+                    , time: 10000
+                });
+                $("#btn-esim").attr("disabled","disabled");
+                $("#btn-hw").attr("disabled","disabled")
+                $.ajax({
+                    type: "get",
+                    url: "{:U('home/userInfo/getexpense/type/hw','',false,true)}",
+                    success: function (res) {
+                          $("#btn-esim").removeAttr("disabled");
+                           $("#btn-hw").removeAttr("disabled");
+                        //res = $.parseJSON(res);
+                        layer.closeAll("dialog");    
+                        if(res['status'] && res['status'] == -2){
+                            //未绑定账
+                            layer.confirm('您还未绑定，是否前往绑定？', {    
+                              skin: 'layui-layer-molv', //样式类名
+                               skin: 'demo-class',
+                            btn: ['绑定','取消'] //按钮
+                                 }, function(){
+                                     window.location.href='{:U('home/index/showAccount/accountType/hw','',false,true)}';
+                                 }
+                            );
+                        }else if(res['status']){
+                            //出错
+                                layer.alert(res['msg'], {
+                                 skin: 'layui-layer-lan', //样式类名
+                                 skin: 'demo-class'
+                                ,closeBtn: 0
+                                   });
+                        }else{
+                            $("#btn-hw").hide();                            
+                             var str = '<div class="show-mess">'
+                             + '<div class="message">账户余额：'+ res.telephone_bill.TotalBalance + '元<span class="mess-span">'
+                             +  '</span></div>' + ' <div class="message1">实时话费：'+ res.realtime_bill.RealFee + '元<span class="mess-span"> ' 
+                             +  '</span></div>' + '  <div class="message1">国内流量剩余：'+ res.flow.GPRSLeftInternal +'M<span class="mess-span">'
+                             + '</span></div>' + ' <div class="message1">历史账单：<a href="{:U('home/userInfo/showexpensepage/flag/history?title=hw','',false,true)}" class="mess-span">查看详情</a></div>'
+                             + '</div>';
+                             $("#hw").children().remove();                     
+                             $("#hw").append(str);
+                        }
+                    },
+                    error: function () {
+                        layer.closeAll("dialog");    
+                         $("#btn-esim").removeAttr("disabled");
+                         $("#btn-hw").attr("disabled","disabled")
+                    }
+                })
+            });
+        })
+    </script>
+</body>
+
+</html>

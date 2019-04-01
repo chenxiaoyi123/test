@@ -1,0 +1,174 @@
+[2018-11-19 09:14:20] 61.129.6.174 /book/index.php/Home/User/GetopenID
+ERR: access_token:15_l5bekYnpb_A8bXzd5NsIU0S34tXc5xrFeY3xTyS0zydpgjaDm03XRQVgkNZfisA25N8Aw7-p3TADjMrVO8XkC74-1OXkddqOvcb1GrIa_CZbtWMf8oM2TRm-bNcLLOjzbr4uoFuNNwvUPGJ1NMEeAAAXWO
+ERR: 插入微信数据失败！
+
+[2018-11-19 15:01:31] 58.246.103.61 /book/index.php/home/api/getCashList?query=1
+ERR: 非法操作:getCashList
+
+[2018-11-19 16:51:44] 58.246.103.61 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[6DvMRb7SyBaVBZay]]></nonce_str>
+<sign><![CDATA[4857E8865A7AB9849C8BC6A9AF90F85A]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx191651444317794238a216c22831716895]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-19 16:52:06] 58.246.103.61 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Y2sKYdIi6Z0md0GR]]></nonce_str>
+<sign><![CDATA[755249B7355C7D4D272AF005177F9B2B]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx1916520660269916b03482881072333338]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-19 16:52:44] 61.151.178.166 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[PYrtOVMaW1T4DFyp]]></nonce_str>
+<sign><![CDATA[A1D840E960ADFF61B7696BBB3F1E34E2]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx191652445442121c57c35ca93274065003]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-19 17:11:27] 58.246.103.61 /book/index.php/home/api/getSysSetInfo?id=1
+ERR: 非法操作:getSysSetInfo
+
+[2018-11-19 17:22:45] 58.246.103.61 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[6l7E6El01tLcYWAU]]></nonce_str>
+<sign><![CDATA[E441860808773AA41310F502B92C443B]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx191722458359414b582d400c1334329121]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-19 17:35:14] 58.246.103.61 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[bj6zvZfcYPapCwjb]]></nonce_str>
+<sign><![CDATA[D84F67E6CA2D002D5CBCE8B9F532D7D9]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx19173514473652ac81734f512396254915]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-19 17:35:50] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?oid=1
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+[2018-11-19 17:37:48] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?oid=1
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+[2018-11-19 17:39:29] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?oid=1
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+[2018-11-19 17:40:26] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?oid=1
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+[2018-11-19 17:45:24] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?oid=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+
+[2018-11-19 17:45:31] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?oid=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+
+[2018-11-19 17:45:53] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?oid=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+
+[2018-11-19 17:45:59] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?oid=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+
+[2018-11-19 17:45:59] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?oid=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+
+[2018-11-19 17:46:00] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?oid=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no= ) LIMIT 1  
+
+[2018-11-19 17:46:34] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?order_no=SHCM_1542354260
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+
+[2018-11-19 17:46:34] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?order_no=SHCM_1542354260
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+
+[2018-11-19 17:46:36] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?order_no=SHCM_1542354260
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+
+[2018-11-19 17:46:37] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?order_no=SHCM_1542354260
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+
+[2018-11-19 17:46:37] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?order_no=SHCM_1542354260
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+
+[2018-11-19 17:46:37] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?order_no=SHCM_1542354260
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+
+[2018-11-19 17:48:33] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?order_no=SHCM_1542354260
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+
+[2018-11-19 17:49:39] 58.246.103.61 /book/index.php/Home/Wxpay/Refund?order_no=SHCM_1542354260
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+ERR: 1054:Unknown column 'SHCM_1542354260' in 'where clause'
+ [ SQL语句 ] : SELECT `money`,`transaction_id`,`out_trade_no` FROM `booking_recharge` WHERE ( out_trade_no=SHCM_1542354260 ) LIMIT 1  
+

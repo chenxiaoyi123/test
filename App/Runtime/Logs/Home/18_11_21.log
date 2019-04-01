@@ -1,0 +1,833 @@
+[2018-11-21 09:06:02] 140.207.54.76 /book/index.php/Home/Wxpay/OrderNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[7t5c7kjpjuCuFTYu4]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276235790311]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FEA2E8A99CB766A6E12F90A57F1D1E49]]></sign>
+<time_end><![CDATA[20181121090602]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000213201811217139962521]]></transaction_id>
+</xml>
+
+[2018-11-21 09:06:18] 140.207.54.76 /book/index.php/Home/Wxpay/OrderNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[7t5c7kjpjuCuFTYu4]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276235790311]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FEA2E8A99CB766A6E12F90A57F1D1E49]]></sign>
+<time_end><![CDATA[20181121090602]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000213201811217139962521]]></transaction_id>
+</xml>
+
+[2018-11-21 09:06:34] 140.207.54.73 /book/index.php/Home/Wxpay/OrderNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[7t5c7kjpjuCuFTYu4]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276235790311]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FEA2E8A99CB766A6E12F90A57F1D1E49]]></sign>
+<time_end><![CDATA[20181121090602]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000213201811217139962521]]></transaction_id>
+</xml>
+
+[2018-11-21 09:07:05] 140.207.54.74 /book/index.php/Home/Wxpay/OrderNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[7t5c7kjpjuCuFTYu4]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276235790311]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FEA2E8A99CB766A6E12F90A57F1D1E49]]></sign>
+<time_end><![CDATA[20181121090602]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000213201811217139962521]]></transaction_id>
+</xml>
+
+[2018-11-21 09:10:07] 140.207.54.73 /book/index.php/Home/Wxpay/OrderNotify
+ERR: XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[7t5c7kjpjuCuFTYu4]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276235790311]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FEA2E8A99CB766A6E12F90A57F1D1E49]]></sign>
+<time_end><![CDATA[20181121090602]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000213201811217139962521]]></transaction_id>
+</xml>
+
+[2018-11-21 09:39:02] 140.207.54.76 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[wRgimEw9ULyUQc9UY]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276433708519]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C807191F2387854820C169BE3770F3D7]]></sign>
+<time_end><![CDATA[20181121093902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000224201811216877599977]]></transaction_id>
+</xml>
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+
+[2018-11-21 09:39:18] 140.207.54.75 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[wRgimEw9ULyUQc9UY]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276433708519]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C807191F2387854820C169BE3770F3D7]]></sign>
+<time_end><![CDATA[20181121093902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000224201811216877599977]]></transaction_id>
+</xml>
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+
+[2018-11-21 09:39:33] 101.226.103.70 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[wRgimEw9ULyUQc9UY]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276433708519]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C807191F2387854820C169BE3770F3D7]]></sign>
+<time_end><![CDATA[20181121093902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000224201811216877599977]]></transaction_id>
+</xml>
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+
+[2018-11-21 09:40:04] 140.207.54.76 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[wRgimEw9ULyUQc9UY]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276433708519]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C807191F2387854820C169BE3770F3D7]]></sign>
+<time_end><![CDATA[20181121093902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000224201811216877599977]]></transaction_id>
+</xml>
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+
+[2018-11-21 09:40:09] 58.251.80.44 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[7t5c7kjpjuCuFTYu4]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276235790311]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FEA2E8A99CB766A6E12F90A57F1D1E49]]></sign>
+<time_end><![CDATA[20181121090602]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000213201811217139962521]]></transaction_id>
+</xml>
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+
+[2018-11-21 09:43:05] 183.3.234.45 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[wRgimEw9ULyUQc9UY]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276433708519]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C807191F2387854820C169BE3770F3D7]]></sign>
+<time_end><![CDATA[20181121093902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000224201811216877599977]]></transaction_id>
+</xml>
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+
+[2018-11-21 09:45:36] 140.207.54.73 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[y1VYmcLifsjAEAT2t]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276473166230]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[240B12F3B7498D95BD50EDFF6ABDE6ED]]></sign>
+<time_end><![CDATA[20181121094535]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000228201811214313554097]]></transaction_id>
+</xml>
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+
+[2018-11-21 09:45:51] 101.226.103.70 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[y1VYmcLifsjAEAT2t]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276473166230]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[240B12F3B7498D95BD50EDFF6ABDE6ED]]></sign>
+<time_end><![CDATA[20181121094535]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000228201811214313554097]]></transaction_id>
+</xml>
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+
+[2018-11-21 09:46:06] 58.251.80.53 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[y1VYmcLifsjAEAT2t]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276473166230]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[240B12F3B7498D95BD50EDFF6ABDE6ED]]></sign>
+<time_end><![CDATA[20181121094535]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000228201811214313554097]]></transaction_id>
+</xml>
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+
+[2018-11-21 09:46:36] 183.3.234.45 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[y1VYmcLifsjAEAT2t]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276473166230]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[240B12F3B7498D95BD50EDFF6ABDE6ED]]></sign>
+<time_end><![CDATA[20181121094535]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000228201811214313554097]]></transaction_id>
+</xml>
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+
+[2018-11-21 09:49:37] 140.207.54.73 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[y1VYmcLifsjAEAT2t]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276473166230]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[240B12F3B7498D95BD50EDFF6ABDE6ED]]></sign>
+<time_end><![CDATA[20181121094535]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000228201811214313554097]]></transaction_id>
+</xml>
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `booking_order` SET `ispay`='1',`paytype`='1' WHERE ( id= )
+
+[2018-11-21 09:53:31] 140.207.54.73 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[qO5ki1qdK3qvGGyY7]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276520447471]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[8439DC529AF719E7CE9DB3D8AFE1E238]]></sign>
+<time_end><![CDATA[20181121095330]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000231201811215543076361]]></transaction_id>
+</xml>
+
+[2018-11-21 10:04:59] 140.207.54.73 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[PrksNvK9bhysKIa4]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276589368046]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[0B3A58D08EE0C40E502C4883F483881C]]></sign>
+<time_end><![CDATA[20181121100458]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000231201811212375882606]]></transaction_id>
+</xml>
+
+[2018-11-21 10:10:11] 140.207.54.76 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[7t5c7kjpjuCuFTYu4]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276235790311]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FEA2E8A99CB766A6E12F90A57F1D1E49]]></sign>
+<time_end><![CDATA[20181121090602]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000213201811217139962521]]></transaction_id>
+</xml>
+ERR: 更改订单状态失败 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[7t5c7kjpjuCuFTYu4]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276235790311]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FEA2E8A99CB766A6E12F90A57F1D1E49]]></sign>
+<time_end><![CDATA[20181121090602]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000213201811217139962521]]></transaction_id>
+</xml>
+
+[2018-11-21 10:13:06] 140.207.54.76 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[wRgimEw9ULyUQc9UY]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276433708519]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C807191F2387854820C169BE3770F3D7]]></sign>
+<time_end><![CDATA[20181121093902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000224201811216877599977]]></transaction_id>
+</xml>
+ERR: 更改订单状态失败 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[wRgimEw9ULyUQc9UY]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276433708519]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C807191F2387854820C169BE3770F3D7]]></sign>
+<time_end><![CDATA[20181121093902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000224201811216877599977]]></transaction_id>
+</xml>
+
+[2018-11-21 10:19:39] 140.207.54.73 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[y1VYmcLifsjAEAT2t]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276473166230]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[240B12F3B7498D95BD50EDFF6ABDE6ED]]></sign>
+<time_end><![CDATA[20181121094535]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000228201811214313554097]]></transaction_id>
+</xml>
+ERR: 更改订单状态失败 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[y1VYmcLifsjAEAT2t]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276473166230]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[240B12F3B7498D95BD50EDFF6ABDE6ED]]></sign>
+<time_end><![CDATA[20181121094535]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000228201811214313554097]]></transaction_id>
+</xml>
+
+[2018-11-21 10:47:10] 140.207.54.75 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[c3f422132d1c5df95dada38436c5c56f]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV6Ka/HSPvEu2M2+Z5nB2ck1Q0fK6WRoKDFFpWOBPSlXVutVQmbTlLqMM9twmJAPu16M5OCOWAdsRnIo6MZITAUWxD4rCMQgRDF4wCmb6aWVxM14j3fUTuk0N54bRg4sVjLkrAwQnuhI2NIwA2bS/AdUpzDytqQpTygwv5XRQK4yDQzgUT1uyAxrqLPqBEnkYDaFmHzl9J+1vhYC8Vmun3syu//pKv9s0BQfJHxoWw2cAjXNoUR+xksCn4Q7RXqCfk8Igu2kY9FCQoWYv4yCnHiYFHs7kch6LUtqN6dQMwgcIHQqIRfUFCBXCi/PTfnDPc+KWAraszdOP1xlnrW3vMTcSS0uWJKwAU82i91dW8KE0q36OZfUHOzaVDDIYlg6Sl1D4zzBUCSbykMPXK0Q6aKU/0Fjs6YRmL4BJAhyCKUZItas7DyDdpIRxp8hO4NlCo9T6EYOw09RTpFKcyHUEe3WlUhpSnz5ZMuFB2IdgAe43Hojugk9igseSF+mAcGSWGVQ8DfOWIiqgWKZpNrH4LBmJNLHlSn4/nI5HYHTAtSYSgRejzJfN4iWr7VnIyoJ8TJ3gUm2FY+FzsD/mBqPoHJxcHP8aUs/u3pr2K6/Rwn/Dt6Tr9HHonRgj3LSW8ZFBTtc2moQkUhmjGDyo2RvWA1+QvfNI7iPef8ZYqEYVC4bKhh976joqFpFy/PvUMW+lvVNfk6uYalbcacjumrJ5ozG2Gklt/N4ELE+jSWCiWJzqvrGoR43ZAbTYeq4lu64/EWa+qRmpDrdWDkKeHmeCkgw2O3uwbPLAGXJR1Kkz0STlrn6DygvUHzjRW+H/rlI05s2Ey6pLIy8qfm4LYgLytWdOsXOWnpy1JV6okltPEYfF+MOu/HrlUGkdNBgLoXK7daAZIUGpjse6PKp1tyhu3cSuCybeFBSpiqYDZHp4GPfckGS0TRd8pvomWkGyTLBKjDSk8BpoNpjH1SjG/KtvVQK8t8XauwUs5LOPghgKCBZ/5mXPcT+1GP9KhvYtjdjrn8X6woQivguLxH6Q6+ijAdl]]></req_info></xml>
+
+[2018-11-21 10:47:26] 101.226.103.61 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[9b213c62c41ee549d459e34f2d56ca60]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV6Ka/HSPvEu2M2+Z5nB2ck1Q0fK6WRoKDFFpWOBPSlXVutVQmbTlLqMM9twmJAPu16M5OCOWAdsRnIo6MZITAUWxD4rCMQgRDF4wCmb6aWVxM14j3fUTuk0N54bRg4sVjLkrAwQnuhI2NIwA2bS/AdUpzDytqQpTygwv5XRQK4yDQzgUT1uyAxrqLPqBEnkYDaFmHzl9J+1vhYC8Vmun3syu//pKv9s0BQfJHxoWw2cAjXNoUR+xksCn4Q7RXqCfk8Igu2kY9FCQoWYv4yCnHiYFHs7kch6LUtqN6dQMwgcIHQqIRfUFCBXCi/PTfnDPc+KWAraszdOP1xlnrW3vMTcSS0uWJKwAU82i91dW8KE0q36OZfUHOzaVDDIYlg6Sl1D4zzBUCSbykMPXK0Q6aKU/0Fjs6YRmL4BJAhyCKUZItas7DyDdpIRxp8hO4NlCo9T6EYOw09RTpFKcyHUEe3WlUhpSnz5ZMuFB2IdgAe43Hojugk9igseSF+mAcGSWGVQ8DfOWIiqgWKZpNrH4LBmJNLHlSn4/nI5HYHTAtSYSgRejzJfN4iWr7VnIyoJ8TJ3gUm2FY+FzsD/mBqPoHJxcHP8aUs/u3pr2K6/Rwn/Dt6Tr9HHonRgj3LSW8ZFBTtc2moQkUhmjGDyo2RvWA1+QvfNI7iPef8ZYqEYVC4bKhh976joqFpFy/PvUMW+lvVNfk6uYalbcacjumrJ5ozG2Gklt/N4ELE+jSWCiWJzqvrGoR43ZAbTYeq4lu64/EWa+qRmpDrdWDkKeHmeCkgw2O3uwbPLAGXJR1Kkz0STlrn6DygvUHzjRW+H/rlI05s2Ey6pLIy8qfm4LYgLytWdOsXOWnpy1JV6okltPEYfF+MOu/HrlUGkdNBgLoXK7daAZIUGpjse6PKp1tyhu3cSuCybeFBSpiqYDZHp4GPfckGS0TRd8pvomWkGyTLBKjDSk8BpoNpjH1SjG/KtvVQK8t8XauwUs5LOPghgKCBZ/5mXPcT+1GP9KhvYtjdjrn8X6woQivguLxH6Q6+ijAdl]]></req_info></xml>
+ERR: 退款更改状态失败XML: <root>
+<out_refund_no><![CDATA[shcm_0_15427684267638]]></out_refund_no>
+<out_trade_no><![CDATA[shcm_0_154276520447471]]></out_trade_no>
+<refund_account><![CDATA[REFUND_SOURCE_UNSETTLED_FUNDS]]></refund_account>
+<refund_fee><![CDATA[1]]></refund_fee>
+<refund_id><![CDATA[50000108842018112107179298728]]></refund_id>
+<refund_recv_accout><![CDATA[支付用户零钱]]></refund_recv_accout>
+<refund_request_source><![CDATA[API]]></refund_request_source>
+<refund_status><![CDATA[SUCCESS]]></refund_status>
+<settlement_refund_fee><![CDATA[1]]></settlement_refund_fee>
+<settlement_total_fee><![CDATA[1]]></settlement_total_fee>
+<success_time><![CDATA[2018-11-21 10:47:09]]></success_time>
+<total_fee><![CDATA[1]]></total_fee>
+<transaction_id><![CDATA[4200000231201811215543076361]]></transaction_id>
+</root>
+
+[2018-11-21 10:53:19] 140.207.54.75 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[I1FOGrXM76Mh8U0a7]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276879426883]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[87BE53DB7DC8CA752AFDE432D98476F9]]></sign>
+<time_end><![CDATA[20181121105318]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000216201811212008018581]]></transaction_id>
+</xml>
+ERR: 更改订单状态失败 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[I1FOGrXM76Mh8U0a7]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276879426883]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[87BE53DB7DC8CA752AFDE432D98476F9]]></sign>
+<time_end><![CDATA[20181121105318]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000216201811212008018581]]></transaction_id>
+</xml>
+
+[2018-11-21 10:53:48] 101.226.103.61 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[248a5afd1d1ac1a5f11d3171fc44f463]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV49OepIEZi22zJcblmAki+Xss81Qz8346JCH+pxMAsGAlC3De7Atfi819scCKhAGPxBVNr8/ZhWO77hQh4teqzDZeVO2r2x3MdZUvGwWf9KRS6XFTfXF5C89KTT9VKM3g/naeLNGynkjUpkNk2BibsZr4DkCr7907yMUnFvNbwl6cuSC8kRqHXGEwlZNqfSp9kgYxrRRpbbB1KuVlfqAIo25JreU9sm6eaDaOY4no76tsfKgd9hKwwvXC9Wb1wTOFaoIB56vVmClUssNfbM9BpluAhJ+el8tAimzOZGeoD2NST6uJgVgr8+YeSzmC6XJPaK7xgRN8fxGbU6UNczYxa22UwCqMT9IFXCqW0jruptTmBeHpB+H0ViKHVZrUWWK/FSqbaskrwaLMe/JJC8yCFY4WEZ5SlR7cvXtd2z/7mRH11NL3Y/4MOqr82ATVxlCr3mlU65M2tQUSDobbugmleuZqHeplIp0iN2f5e57cJwhCqaLn5FCbmiZgNDvsqN3uygPBn6126SOR+JEX8RGGMxwYGWbv83aAKtOVaeWBmlajkvjzdsiUnZx+VMTsQUr03BpD0nHK8cgTqmItas+YMwuzc2a7YNCW0sD6upzQJudt3PMY5GeYqhF8T8aAlr+7vo045nbipew3mOAZhuTbzq3SQvcNQ3v6G8vweRjYVXvYGYfV83Kyq8Xbm4+4329SeDFqGrMi3pQOwbuJ3pLBeCs5h3uTvZrfQ/oZ8VyOfuzOf5dtL1ddTIfYVeZgsV4a7G3kJQlDmBkXWl8r0I7InBMMX+7Onxjj+/hO/Uc9GrEf4vEXdzlWMGtRe8vEvx9b2u8S8yKvjZcMQwZXOubUp/Wmmqna/T29n/cTd34k12VIvxfxe3EC9oRNzwYCeJHqlk+D7o8w7L+ds3U9HD3oWZYC8v66iBb+wz0SarpmbLHEbLx1ZXY744+ro5vgnDNQvNaPnn4RJ7OJF2GsTY+9AMlNvFm2XXIDIC0nso62kaZqj5MV3QbRNL6TKY8SlRaHEyezQjSG+gXmGuyJqPBbc5]]></req_info></xml>
+
+[2018-11-21 10:54:04] 140.207.54.74 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[cd1981173da41977d1f3237c7cd351f5]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV49OepIEZi22zJcblmAki+Xss81Qz8346JCH+pxMAsGAlC3De7Atfi819scCKhAGPxBVNr8/ZhWO77hQh4teqzDZeVO2r2x3MdZUvGwWf9KRS6XFTfXF5C89KTT9VKM3g/naeLNGynkjUpkNk2BibsZr4DkCr7907yMUnFvNbwl6cuSC8kRqHXGEwlZNqfSp9kgYxrRRpbbB1KuVlfqAIo25JreU9sm6eaDaOY4no76tsfKgd9hKwwvXC9Wb1wTOFaoIB56vVmClUssNfbM9BpluAhJ+el8tAimzOZGeoD2NST6uJgVgr8+YeSzmC6XJPaK7xgRN8fxGbU6UNczYxa22UwCqMT9IFXCqW0jruptTmBeHpB+H0ViKHVZrUWWK/FSqbaskrwaLMe/JJC8yCFY4WEZ5SlR7cvXtd2z/7mRH11NL3Y/4MOqr82ATVxlCr3mlU65M2tQUSDobbugmleuZqHeplIp0iN2f5e57cJwhCqaLn5FCbmiZgNDvsqN3uygPBn6126SOR+JEX8RGGMxwYGWbv83aAKtOVaeWBmlajkvjzdsiUnZx+VMTsQUr03BpD0nHK8cgTqmItas+YMwuzc2a7YNCW0sD6upzQJudt3PMY5GeYqhF8T8aAlr+7vo045nbipew3mOAZhuTbzq3SQvcNQ3v6G8vweRjYVXvYGYfV83Kyq8Xbm4+4329SeDFqGrMi3pQOwbuJ3pLBeCs5h3uTvZrfQ/oZ8VyOfuzOf5dtL1ddTIfYVeZgsV4a7G3kJQlDmBkXWl8r0I7InBMMX+7Onxjj+/hO/Uc9GrEf4vEXdzlWMGtRe8vEvx9b2u8S8yKvjZcMQwZXOubUp/Wmmqna/T29n/cTd34k12VIvxfxe3EC9oRNzwYCeJHqlk+D7o8w7L+ds3U9HD3oWZYC8v66iBb+wz0SarpmbLHEbLx1ZXY744+ro5vgnDNQvNaPnn4RJ7OJF2GsTY+9AMlNvFm2XXIDIC0nso62kaZqj5MV3QbRNL6TKY8SlRaHEyezQjSG+gXmGuyJqPBbc5]]></req_info></xml>
+ERR: 退款更改状态失败XML: <root>
+<out_refund_no><![CDATA[shcm_0_154276882552589]]></out_refund_no>
+<out_trade_no><![CDATA[shcm_0_154276879426883]]></out_trade_no>
+<refund_account><![CDATA[REFUND_SOURCE_UNSETTLED_FUNDS]]></refund_account>
+<refund_fee><![CDATA[1]]></refund_fee>
+<refund_id><![CDATA[50000508662018112107150692701]]></refund_id>
+<refund_recv_accout><![CDATA[支付用户零钱]]></refund_recv_accout>
+<refund_request_source><![CDATA[API]]></refund_request_source>
+<refund_status><![CDATA[SUCCESS]]></refund_status>
+<settlement_refund_fee><![CDATA[1]]></settlement_refund_fee>
+<settlement_total_fee><![CDATA[1]]></settlement_total_fee>
+<success_time><![CDATA[2018-11-21 10:53:48]]></success_time>
+<total_fee><![CDATA[1]]></total_fee>
+<transaction_id><![CDATA[4200000216201811212008018581]]></transaction_id>
+</root>
+
+[2018-11-21 11:01:48] 140.207.54.76 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[CILALVZZ8v8IPgqck]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276930208059]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[7357984A2C63374403A983BBF8A4B85E]]></sign>
+<time_end><![CDATA[20181121110147]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000235201811212784201735]]></transaction_id>
+</xml>
+ERR: 更改订单状态失败 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[CILALVZZ8v8IPgqck]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276930208059]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[7357984A2C63374403A983BBF8A4B85E]]></sign>
+<time_end><![CDATA[20181121110147]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000235201811212784201735]]></transaction_id>
+</xml>
+
+[2018-11-21 11:03:28] 58.251.80.62 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款更改状态失败XML: <root>
+<out_refund_no><![CDATA[shcm_0_15427693894582]]></out_refund_no>
+<out_trade_no><![CDATA[shcm_0_154276930208059]]></out_trade_no>
+<refund_account><![CDATA[REFUND_SOURCE_UNSETTLED_FUNDS]]></refund_account>
+<refund_fee><![CDATA[1]]></refund_fee>
+<refund_id><![CDATA[50000708772018112107179343298]]></refund_id>
+<refund_recv_accout><![CDATA[支付用户零钱]]></refund_recv_accout>
+<refund_request_source><![CDATA[API]]></refund_request_source>
+<refund_status><![CDATA[SUCCESS]]></refund_status>
+<settlement_refund_fee><![CDATA[1]]></settlement_refund_fee>
+<settlement_total_fee><![CDATA[1]]></settlement_total_fee>
+<success_time><![CDATA[2018-11-21 11:03:11]]></success_time>
+<total_fee><![CDATA[1]]></total_fee>
+<transaction_id><![CDATA[4200000235201811212784201735]]></transaction_id>
+</root>
+
+[2018-11-21 11:09:16] 58.251.80.53 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[zEIANkdUUwOsUCuFF]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276975011731]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[A9350925190E937B7C9985AC0A71311C]]></sign>
+<time_end><![CDATA[20181121110915]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000233201811218527999615]]></transaction_id>
+</xml>
+ERR: 更改订单状态失败 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[zEIANkdUUwOsUCuFF]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154276975011731]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[A9350925190E937B7C9985AC0A71311C]]></sign>
+<time_end><![CDATA[20181121110915]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000233201811218527999615]]></transaction_id>
+</xml>
+
+[2018-11-21 11:15:57] 58.251.80.53 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[cN7l3sdIA9JdJONCM]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_15427701539497]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FF252985921E15237CD186533D2360A0]]></sign>
+<time_end><![CDATA[20181121111557]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000211201811217333436666]]></transaction_id>
+</xml>
+ERR: 更改订单状态失败 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[cN7l3sdIA9JdJONCM]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_15427701539497]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FF252985921E15237CD186533D2360A0]]></sign>
+<time_end><![CDATA[20181121111557]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000211201811217333436666]]></transaction_id>
+</xml>
+
+[2018-11-21 11:27:09] 140.207.54.76 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+
+[2018-11-21 11:27:25] 183.3.234.59 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+
+[2018-11-21 11:27:41] 101.226.103.61 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+
+[2018-11-21 11:28:12] 58.251.80.44 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+
+[2018-11-21 11:31:14] 140.207.54.76 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+
+[2018-11-21 11:33:40] 183.3.234.45 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: yyyyyyyyyy
+
+[2018-11-21 11:33:56] 101.226.103.62 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: yyyyyyyyyy
+
+[2018-11-21 11:34:13] 58.251.80.62 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: yyyyyyyyyy
+
+[2018-11-21 11:34:44] 140.207.54.76 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: yyyyyyyyyy
+
+[2018-11-21 11:37:19] 183.3.234.57 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更改订单状态失败 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[DbUHanZFyp8X8rcsi]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154277143360839]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[32170163CF2BB5F47F41D063FDA0ECE7]]></sign>
+<time_end><![CDATA[20181121113718]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000212201811215835333022]]></transaction_id>
+</xml>
+
+[2018-11-21 11:37:35] 183.3.234.59 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: yyyyyyyyyy
+
+[2018-11-21 11:37:45] 101.226.103.61 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: yyyyyyyyyy
+
+[2018-11-21 11:37:51] 58.251.80.62 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: yyyyyyyyyy
+
+[2018-11-21 11:38:07] 140.207.54.73 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: yyyyyyyyyy
+
+[2018-11-21 11:38:38] 140.207.54.75 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: yyyyyyyyyy
+
+[2018-11-21 11:41:40] 183.3.234.45 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: yyyyyyyyyy
+
+[2018-11-21 11:42:24] 140.207.54.76 /book/index.php/Home/Wxpay/OrderNotify
+ERR: 更改订单状态失败 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[lon45QN9QyQRdeVi]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154277173949882]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[1C6080665AF66D4BA50D1763A151204E]]></sign>
+<time_end><![CDATA[20181121114223]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000219201811215873891534]]></transaction_id>
+</xml>
+
+[2018-11-21 11:42:35] 140.207.54.73 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: oid=1
+
+[2018-11-21 11:43:33] 140.207.54.73 /book/index.php/Home/Wxpay/RefundNotify
+ERR: asasdgasdfasa
+ERR: oid=1
+ERR: 退款更改订单状态失败XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[fdbc357e3f3a900fbc20f22083e9824a]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV6vkenEd4PLgQJNVHZ/g1DAHDDSetjOEO66HEw3M3PavetVQmbTlLqMM9twmJAPu16M5OCOWAdsRnIo6MZITAUWt8TW9hNpHLvnYPR+0prLNwrCmzPJxtJGdWWeDw49jOjkrAwQnuhI2NIwA2bS/AdUpzDytqQpTygwv5XRQK4yDQzgUT1uyAxrqLPqBEnkYDaFmHzl9J+1vhYC8Vmun3syu//pKv9s0BQfJHxoWw2cAjXNoUR+xksCn4Q7RXqCfk8Igu2kY9FCQoWYv4yCnHiYFHs7kch6LUtqN6dQMwgcIHQqIRfUFCBXCi/PTfnDPc8avYYqd377yv76ajJ14XXZDI0D+jrRvWyItBd7EauSdK36OZfUHOzaVDDIYlg6Sl1D4zzBUCSbykMPXK0Q6aKU/0Fjs6YRmL4BJAhyCKUZItas7DyDdpIRxp8hO4NlCo9T6EYOw09RTpFKcyHUEe3WlUhpSnz5ZMuFB2IdgAe43Hojugk9igseSF+mAcGSWGVQ8DfOWIiqgWKZpNrH4LBmJNLHlSn4/nI5HYHTAtSYSgRejzJfN4iWr7VnIyoJ8TJ3gUm2FY+FzsD/mBqPoHJxcHP8aUs/u3pr2K6/Rwn/Dt6Tr9HHonRgj3LSW8ZFBTtc2moQkUhmjGDyo2RvWA1+QvfNI7iPef8ZYqEYVC4bKhh976joqFpFy/PvUMW+lvVNfk6uYalbcacjumrJ5ozG2Gklt/N4ELE+jSWCiWJzqvrGoR43ZAbTYeq4lu64/EWa+qRmpDrdWDkKeHmeCkgw2O3uwbPLAGXJR1Kkz0STlrn6DygvUHzjRW+H/rlI05uayc6fdo3M7nNoij9b1PnJOsXOWnpy1JV6okltPEYfF+MOu/HrlUGkdNBgLoXK7daAZIUGpjse6PKp1tyhu3cSuCybeFBSpiqYDZHp4GPfckGS0TRd8pvomWkGyTLBKjA/0rEiuMydQREBkzj4v/NJuBX2v4oVnSswc3pWWTdjYZmXPcT+1GP9KhvYtjdjrn8X6woQivguLxH6Q6+ijAdl]]></req_info></xml>
+

@@ -1,0 +1,63 @@
+[2018-11-14 11:02:38] 58.246.103.146 /book/index.php/home/api/getRoomDetail?id=12
+ERR: 非法操作:getRoomDetail
+
+[2018-11-14 11:03:26] 58.246.103.146 /book/index.php/Home/User/GetUserInfo?code=0013KQ662IHq6L01cf762wqr6623KQ6t&state=STATE
+ERR: access_token:15_TfmJRqgWUm0IfxXMWUdeGlMXBKYqezb7lRg26J4BsCH5Ms0xtniscUQEpHZzXbVygDJr_3ef0whzA3nd6fpk1tLnZIW5Dch1d8gR39xr_qYHvFQI3MAEZJH_biUkV-EC2mHHEr3eEtYi2NPqWGSgAHADNZ
+ERR: access_token:15_TfmJRqgWUm0IfxXMWUdeGlMXBKYqezb7lRg26J4BsCH5Ms0xtniscUQEpHZzXbVygDJr_3ef0whzA3nd6fpk1tLnZIW5Dch1d8gR39xr_qYHvFQI3MAEZJH_biUkV-EC2mHHEr3eEtYi2NPqWGSgAHADNZopenid:
+ERR: userinffo:{"errcode":40003,"errmsg":"invalid openid hint: [3GfsaA06063705]"}
+
+[2018-11-14 11:03:32] 58.246.103.146 /book/index.php/Home/User/GetUserInfo?code=081LTltL1l9Ty51DGEqL1ofhtL1LTltv&state=STATE
+ERR: access_token:openid:oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: userinffo:{"errcode":41001,"errmsg":"access_token missing hint: [fZJ90a0612vr43!]"}
+
+[2018-11-14 11:03:40] 58.246.103.146 /book/index.php/Home/User/GetUserInfo?code=011Nwfb51OyYQL1Szpa51AWmb51Nwfbd&state=STATE
+ERR: access_token:openid:oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: userinffo:{"errcode":41001,"errmsg":"access_token missing hint: [vmhT4a0620vr58!]"}
+
+[2018-11-14 11:03:52] 58.246.103.146 /book/index.php/Home/User/GetUserInfo?code=021bOmLD1tXsB20zBnLD1kGlLD1bOmLa&state=STATE
+ERR: access_token:openid:oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: userinffo:{"errcode":41001,"errmsg":"access_token missing hint: [t50VfA0632vr65!]"}
+
+[2018-11-14 11:04:32] 58.246.103.146 /book/index.php/Home/User/GetUserInfo?code=011CMoVX1BpU6T0gx0WX1sGDVX1CMoVH&state=STATE
+ERR: access_token:15_ayJqetQj0Yi2_ziK6U8ty1_yWSMtPZh1cA94TU08UdQ8JT1nb_0mQmSaerhGh_lgBj_lV2foH46z61hDhLddWys8XBhVIUM8F0cxF4kbWdpAoIg-qYaY9qcba84MTFbAAASZL
+ERR: access_token:15_ayJqetQj0Yi2_ziK6U8ty1_yWSMtPZh1cA94TU08UdQ8JT1nb_0mQmSaerhGh_lgBj_lV2foH46z61hDhLddWys8XBhVIUM8F0cxF4kbWdpAoIg-qYaY9qcba84MTFbAAASZLopenid:oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: userinffo:{"subscribe":1,"openid":"oAzy9swhz-Geee_EeuJbocnasHZ0","nickname":"陈义","sex":1,"language":"zh_CN","city":"杨浦","province":"上海","country":"中国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/Q3auHgzwzM7QUTfOR99dODelDPfJrrno1GqlOcagt6iaLtU8sXKhQqRUMkmN7InZCu0vLDIMwgyia9sgSltfuAycr3icsoqLfnF9hdNzhqlULQ\/132","subscribe_time":1536568467,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_PROFILE_CARD","qr_scene":0,"qr_scene_str":""}
+
+[2018-11-14 11:07:44] 58.246.103.146 /book/index.php/Home/User/GetUserInfo?code=011l0j832dCS7X0Nag632Xyh832l0j8-&state=STATE
+ERR: access_token:openid:oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: userinffo:{"errcode":41001,"errmsg":"access_token missing hint: [4kMXda0864vr60!]"}
+
+[2018-11-14 11:57:51] 58.246.103.146 /book/index.php/Home/User/GetUserInfo?code=081jdNzJ10Oh360guizJ1L5XzJ1jdNzM&state=STATE
+ERR: access_token:openid:oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: userinffo:{"errcode":41001,"errmsg":"access_token missing hint: [HWRAaa0871vr44!]"}
+
+[2018-11-14 11:58:17] 58.246.103.146 /book/index.php/Home/User/GetUserInfo?code=061UvL5f1scdjr0tKG5f1DaP5f1UvL5B&state=STATE
+ERR: access_token:openid:oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: userinffo:{"errcode":41001,"errmsg":"access_token missing hint: [1qGyea0897vr29!]"}
+
+[2018-11-14 14:11:09] 58.246.103.146 /book/index.php/Home/User/GetUserInfo
+ERR: access_token:15_eqiSTO-ftC1RLD7XqnoUZfuttj1Wz2QQ0lEe-aT0W6UOlWYpQXHuxRb-widwZOxJe2bv111vAmS4V_teigyYp4KJGbFq-2nI8nP47fUNlV1TxcjrN4cabUtywvpNIqt2tryLbzVdQRpbwq8OBMUbAEAGRZ
+
+[2018-11-14 16:02:43] 58.246.103.146 /book/index.php/home/api/getTeahouseDetail
+ERR: 非法操作:getTeahouseDetail
+
+[2018-11-14 16:18:44] 58.246.103.146 /book/index.php/Home/User/GetopenID?code=011EA43g1pZVzz0ZYs0g1GsQ2g1EA43g&state=STATE
+ERR: access_token:15_zhczfLBPhUMX3YUZkC3ZiOUsdRr-ZjsD9drR57pJxUKlB7fH3PCez6VDTK3omORxhKah3sbwvMS_yIrszy8_Pa4qoCRQE_qtPM9fwBH73bXV0D7dR6KHxbyR0ZFsYhDbkeYotfoW183j205_JHUcAAACAN
+ERR: 插入微信数据失败！
+
+[2018-11-14 16:21:13] 58.246.103.146 /book/index.php/Home/User/GetopenID?code=061IUK301KTD302wkd301wuT301IUK3m&state=STATE
+ERR: access_token:15_N8jS-fR2u-OA0BxwyLRy3_O3c1arEptRNeFRAK4sNWvweU2ykCWABHcgzDnmBB_RT0CVnvRx8bjIaWX1V_JdmHwdJQ3fno4U9q_CB6ZzEWeH6COkYm0VhQ6_XIIGwxg1SJlbZ_zyj1xQG8TzCVNaAEAFYQ
+ERR: 插入微信数据失败！
+
+[2018-11-14 16:24:59] 58.246.103.146 /book/index.php/Home/User/GetopenID?code=071JoY0J0rKC8h2Cqe0J00VE0J0JoY0h&state=STATE
+ERR: access_token:15_OssWMPp7IddCF6jIdgjWJ2VrgORCeJoBxv04t3juz3YFg4METdmzYNDIFX9ixPSbiWTGJeCmdCv6eZaQHnhpQTfi2k2AWc0fkk82KvWZdxcX3DDiBNztQkqCWUtiwU6gkb8QwcmP2BH_F04wSFVdAJANAQ
+ERR: 插入微信数据失败！
+
+[2018-11-14 16:26:00] 58.246.103.146 /book/index.php/Home/User/GetopenID?code=021R3Gie1seYcs0Cphle18zuie1R3Gix&state=STATE
+ERR: access_token:15_KYRkA1MNcMK_2LKauKFu5RrvjpK1NrlZVVCa3GTSIpWYJ7TNmCAPRSJ0lB0xkzGoiWgsrrBCGeMs-QyXR46yNoLgz6VopRZup_HzGnY7tVyVKMO62IQroHG1mxfaBu0l0R96cdA8Uv7JOVlHOZIaAJAALU
+ERR: 插入微信数据失败！
+
+[2018-11-14 16:26:13] 58.246.103.146 /book/index.php/Home/User/GetopenID?code=071QSQDB0vjvqf23FLFB0YJSDB0QSQDT&state=STATE
+ERR: access_token:15_7WYAcvh55zcI6IZSuKFu5RrvjpK1NrlZVVCa3GTSIpWYJ7TNmCAPRSJ0lB0RphUa1HN3yAsbgPVCEyBu22ghtxh5t9WtgDkAlyY3D0D3n9NXqhAjOxjPNrMX3L4e1eHLo7-WYVp-wOAPuVvFGIBaAJABDW
+ERR: 插入微信数据失败！
+

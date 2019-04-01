@@ -1,0 +1,206 @@
+<?php if (!defined('THINK_PATH')) exit();?>﻿<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">  
+        <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+        <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"> 
+        <script src="/Public/layer-v3.0.3/layer/layer.js"></script>        
+        <script src="/Public/Js/112js.js"></script> 
+        <link rel="stylesheet" href="/Public/Css/112css.css">
+        <title>存费送费</title> 
+        <style>
+            a:hover, a:visited, a:link, a:active {
+                 text-decoration:none;
+                 color:#fff;
+                }
+        </style>
+    </head>
+    <body>
+        <div class="bg">
+            <div></div>
+            <div class="input-list first">
+                <?php if(($eSIM == '') AND ($hw == '')): ?><input type="number" class="id inpid" id='text_account' value = '' placeholder="请输入您的eSIM账号" />
+                        <input type='hidden' name='phone_type' id='phone_type' value ='3'/>
+                    <?php elseif(($eSIM == '')): ?>
+                        <input type="number" class="id inpid" id='text_account' value = '<?php echo ($hw); ?>' disabled='disabled' placeholder="请输入您的eSIM账号" />                     
+                        <input type='hidden' name='phone_type' id='phone_type' value ='2'/>
+                    <?php elseif(($hw == '')): ?>                        
+                        <input type="number" class="id inpid" id='text_account' value = '<?php echo ($eSIM); ?>' disabled='disabled'  placeholder="请输入您的eSIM账号" /> 
+                        <input type='hidden' name='phone_type' id='phone_type' value ='1'/>
+                    <?php else: ?>
+                        <select class="id selid" id='select_account'>
+                            <option selected value='1'><?php echo ($eSIM); ?></option>
+                            <option value='2'><?php echo ($hw); ?></option>
+                        </select><?php endif; ?>                
+                <img src="/Public/Image/112img/icon.png"/>
+            </div>
+            <div class="input-list second">
+                <input type="number" class="num" placeholder="请输入验证码" />
+                <button id="getnum">获取验证码</button>
+            </div>
+            <button class="p1now" id='success'>立即办理 </button>
+            <span onclick="location='<?php echo U("Purchase/allorders","",true,true);?>'">我的订单</span><span id="shu">|</span><span><a href="tel:4000210356">客服热线</a></span>
+        </div>
+        <form id='go'  action='./paypage.html' method='post'>
+            <input type='hidden' id='telnum' name="tel"/>
+            <input type='hidden' id='phonetype' name='phonetype'/>
+            <input type='hidden' id='openID' name='openID' value='<?php echo ($openID); ?>'/>
+            <input type='hidden' id='pagetype' name='pagetype'/>
+        </form>
+    </body>
+    <script>       
+        
+        
+        
+        
+        $('body').height($('body')[0].clientHeight);
+        
+        function gettelandphonetype(){
+            var result = {};
+            if($('#select_account')[0]){
+                result.tel = $('option:selected').text();                
+                result.phone_type = $('#select_account').val();
+            }else{
+                result.tel = $('#text_account').val();
+                result.phone_type = $('#text_account').next().val();
+            }
+            console.info(result);
+            return result;
+        }
+        
+        $(function () {
+            
+            //活动已结束
+            layer.msg('抱歉，活动已结束', {
+                icon: 1
+                , time: 60 * 1000,
+                shift: 6
+            });
+            return;
+            
+                        
+            
+            //发送验证码
+            $("#getnum").click(function () {
+                
+                //活动已结束
+                return;
+                
+                
+                
+                var choose = gettelandphonetype();
+                var numval = choose.tel;
+                if (!(/^1[345678]\d{9}$/.test(numval))) {
+                    layer.msg('手机号格式不正确', {
+                        icon: 2
+                        , time: 3 * 1000,
+                        shift: 6
+                    });
+                    return;
+                }
+                layer.load(2);                
+                $("#getnum").attr('disabled', 'disabled');
+                var url = './sendsms.html';
+                $.ajax({
+                    type: "get",
+                    url: url,
+                    data: {telnum: numval},
+                    success: function (res) {                        
+                        layer.closeAll('loading'); //关闭加载层                        
+                        if (res.errorno == 1) {
+                            buttonCountdown($("#getnum"), 1000 * 60 * 1, "ss");
+                            $('#getnum').css({"background": "rgb(178,178,178)", "color": "#fff", "border": "1px solid rgb(178,178,178)"})
+                            setTimeout(function () {
+                                $('#getnum').css({"background": "#fff", "color": "rgb(61,124,193)", "border": "1px solid rgb(61,124,193)"})
+                            }, 60500);
+                        } else {
+                            $("#getnum").removeAttr('disabled');
+                            layer.msg(res.errmsg, {
+                                icon: 2
+                                , time: 3 * 1000,
+                                shift: 6
+                            });
+                            return;
+                        }
+                    },
+                    error: function () {
+                        layer.closeAll('loading'); //关闭加载层                        
+                        $("#getnum").removeAttr('disabled');
+                        layer.msg('抱歉，发生异常，请稍后再试', {
+                            icon: 2
+                            , time: 3 * 1000,
+                            shift: 6
+                        });
+                        return;
+                    }
+                });
+            });
+
+
+            //提交
+            $("#success").click(function () {
+                
+                //活动已结束
+                return;                
+                
+                var choose = gettelandphonetype();                
+                var telnum = choose.tel;
+                var code = $('.num').val();
+                var phone_type = choose.phone_type;
+                if (!(/^1[345678]\d{9}$/.test(telnum))) {
+                    layer.msg('手机号格式不正确', {
+                        icon: 2
+                        , time: 3 * 1000,
+                        shift: 6
+                    });
+                    return;
+                }
+                if (!(/^\d{6}$/.test(code))) {
+                    layer.msg('验证码格式不正确', {
+                        icon: 2
+                        , time: 3 * 1000,
+                        shift: 6
+                    });
+                    return;
+                }
+                layer.load(2);
+                $("#success").attr('disabled', 'disabled');
+                var url = './choosetel.html';
+                $.ajax({
+                    type: "get",
+                    url: url,
+                    data: {submit:'go',telnum: telnum,code:code,phone_type:phone_type},
+                    success: function (res) {                        
+                        layer.closeAll('loading'); //关闭加载层                        
+                        $("#success").removeAttr('disabled');                    
+                        if (res.errorno == 1) {
+                            //location = res.content;
+                            $('#pagetype').val(res.content);
+                            $('#telnum').val(telnum);
+                            $('#phonetype').val(phone_type);
+                            $('#go').submit();
+                        } else {
+                            layer.msg(res.errmsg, {
+                                icon: 2
+                                , time: 3 * 1000,
+                                shift: 6
+                            });
+                            return;
+                        }
+                    },
+                    error: function () {
+                        layer.closeAll('loading'); //关闭加载层                        
+                        $("#success").removeAttr('disabled');
+                        layer.msg('抱歉，发生异常，请稍后再试', {
+                            icon: 2
+                            , time: 3 * 1000,
+                            shift: 6
+                        });
+                        return;
+                    }
+                });                
+            });  
+        });
+            
+    </script>
+</html>

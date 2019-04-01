@@ -1,0 +1,110 @@
+[2018-11-28 08:43:43] 58.246.102.103 /book/index.php/home/api/getRefundList
+ERR: 非法操作:getRefundList
+
+[2018-11-28 09:21:11] 58.246.102.103 /book/index.php/Home/Salesclerk/DepartureLook
+ERR: 非法操作:DepartureLook
+
+[2018-11-28 09:26:25] 58.246.102.103 /book/index.php/Home/Salesclerk/DepartureLook
+ERR: 非法操作:DepartureLook
+
+[2018-11-28 14:23:12] 58.246.102.103 /book/index.php/Home/User/test
+ERR: access_token:16_6UONx6xIyiS4eaOxhgpEz9bwTGZ5vKcTiNExfp-ZNiP-h-RpAD-k1wyhoQFF40xp_pwG8MWSWZtUFT23KgzNDOaNmRJ-0x-EhSh78tR6iAt7YXTZdxqUnZAaffWskVhUwCup3AynvwC3RfSiUHGgAAAHUT
+ERR: 
+
+[2018-11-28 14:23:46] 58.246.102.103 /book/index.php/Home/User/test
+ERR: access_token:16_-EZ7Sj5585qwemMsZ4AdctJ7BVQ7FDaOnDm2y8znX_AMcuwS6ap_1dvsRo6am3_qabACFAREJsDW68S44HLpqOXQtrAhRezhZaqxWku-Yjq3p1mg_BJusnPPosjiYhaAaWr8GbuOrkxsFUz1BUEhACAXQA
+ERR: 
+
+[2018-11-28 14:23:55] 58.246.102.103 /book/index.php/Home/User/test
+ERR: access_token:16_HTyMm0kr3cvhtT7UZ4AdctJ7BVQ7FDaOnDm2y8znX_AMcuwS6ap_1dvsRo6JptRh5oS_azdWMdfifjiQFp1zt73fdLkgwA01QxBVaivvVvZnZ8XoXX2vAwunmtNpYZv7wzXZHo7jcsdwmH7SAKVhACAMWH
+ERR: 
+
+[2018-11-28 14:24:27] 58.246.102.103 /book/index.php/Home/User/test
+ERR: access_token:16_5K4pcqavMP9H7EQY3MUioO0u852yZ6r1-BNpFxUPvyq58rdOKIFnAjlLxDJK9oPCDfy_UKDSMA_NiAVoVLkHNNPzqw_dgGRu4QNDHdVMD7JPWRRMWf9vZvID54MILCfAFABEV
+
+[2018-11-28 14:25:13] 58.246.102.103 /book/index.php/Home/User/test
+ERR: access_token:16_uLsKlEBziIqLDtZt8cVqs9oUXpKmqIC7Z0gS9rWAj8u5t6mECjCQ_SyZjhg9ub3U9Kh_i-VipKzrX2W4EI1rRgK157o0-pnzGbkzL9zkoFAHq8qYBBIx1GFvCXe2ClugUGKUrtSNVgPeHy3CAKCjAJAMWO
+
+[2018-11-28 14:26:49] 58.246.102.103 /book/index.php/Home/User/test
+ERR: access_token:16_UUljkhWJLvNwls4ZBhQ7sRke3GX-TAPqyYcp0TWQtW5X4CUH61Y4NUb8U8LSezTPL9M69HoXNxSYl2iz9PNDuBRkbsb21599-7ds2KEZg0HRzv59pEKYgXeVNX8RvsK5c4kozo77MI79w2EEUFLeAJACNT
+
+[2018-11-28 14:26:49] 140.207.54.79 /book/index.php/Home/Wxpay/Url?signature=a2da18aa2137134475ed3865dff8eaf786a3fdf9&timestamp=1543386409&nonce=555084758&openid=oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: 扫码消息 xml:{"ToUserName":"gh_fe23502e3400","FromUserName":"oAzy9swhz-Geee_EeuJbocnasHZ0","CreateTime":"1543386409","MsgType":"event","Event":"TEMPLATESENDJOBFINISH","MsgID":"566971551652659200","Status":"success"}
+
+[2018-11-28 14:27:51] 58.246.102.103 /book/index.php/Home/User/test
+ERR: access_token:16_xOuc8-BxMeNGCXirHupVXn1zR0sllfLApy3m9PcgYJclfFnZay66COzpCKkGXYcE8maQS9bqDWGKN9IBk1spOOvXWviK59hHEgez8tq7eU5jYCuqMKzvnRRN1C3qVsptQEINNl8VYD1tI1b-VNOjAGAMEF
+
+[2018-11-28 14:27:51] 140.207.54.79 /book/index.php/Home/Wxpay/Url?signature=055d6cfce3c722d5db91380ddc8d86385f514fe0&timestamp=1543386471&nonce=206737894&openid=oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: 扫码消息 xml:{"ToUserName":"gh_fe23502e3400","FromUserName":"oAzy9swhz-Geee_EeuJbocnasHZ0","CreateTime":"1543386471","MsgType":"event","Event":"TEMPLATESENDJOBFINISH","MsgID":"566972596151795712","Status":"success"}
+
+[2018-11-28 14:58:29] 47.99.40.137 /book/index.php/Home/Wxpay/Url
+ERR: 扫码消息 xml222:
+
+[2018-11-28 15:18:31] 47.99.40.137 /book/index.php/Home/Wxpay/Url
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:18:33] 47.99.40.137 /book/index.php/Home/Wxpay/Url
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:18:33] 47.99.40.137 /book/index.php/Home/Wxpay/Url
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:18:34] 47.99.40.137 /book/index.php/Home/Wxpay/Url?str=333333
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:18:35] 140.207.54.80 /book/index.php/Home/Wxpay/Url?signature=29d2eb8db9a35aa429cb9a2e331e8226f0bbfaf0&echostr=7928359392003441141&timestamp=1543389429&nonce=396721788
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:18:35] 140.207.54.80 /book/index.php/Home/Wxpay/Url?signature=6401f093e03d2d2019d15cee28f10a0af8a2f5a8&echostr=7029956979409734394&timestamp=1543389434&nonce=1020532988
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:18:35] 140.207.54.79 /book/index.php/Home/Wxpay/Url?signature=4c7aab95e94d8906b0490b9c18d66a5940ad8994&echostr=4447161186496013167&timestamp=1543389473&nonce=152145968
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:18:35] 61.151.178.197 /book/index.php/Home/Wxpay/Url
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:18:35] 140.207.54.79 /book/index.php/Home/Wxpay/Url?signature=f9dd73f0727d24baa90ce9668ece58d1fe43059b&echostr=2868897723329736125&timestamp=1543389497&nonce=1727573100
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:18:35] 140.207.54.79 /book/index.php/Home/Wxpay/Url?signature=3f80918cedf8c4252c2d2d89a782fb7146baf9b9&echostr=1731583842113745727&timestamp=1543389503&nonce=101219900
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:18:35] 58.246.102.103 /book/index.php/Home/Wxpay/Url
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:18:57] 140.207.54.79 /book/index.php/Home/Wxpay/Url?signature=80f226b86e7a272acbef60225c8aedde17bf19fa&echostr=6485632594518884843&timestamp=1543389537&nonce=2146180161
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:19:16] 140.207.54.80 /book/index.php/Home/Wxpay/Url?signature=cf3af8717fb71692ae514f0c9a3667f43099b0fd&echostr=3061776715886820727&timestamp=1543389555&nonce=272287619
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:19:50] 140.207.54.79 /book/index.php/Home/Wxpay/Url?signature=a588ca8ffc21fb8d84dc6cd362f2e553794d5a0d&echostr=2134197439333090742&timestamp=1543389590&nonce=1012191525
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:20:01] 140.207.54.80 /book/index.php/Home/Wxpay/Url?signature=9d915a5ef47911496267df39469baa1cb921cf60&echostr=849301949248395175&timestamp=1543389601&nonce=122895556
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:20:54] 140.207.54.79 /book/index.php/Home/Wxpay/Url?signature=109a4863c0f1206665a1971cc61b241ff6b6dacc&echostr=4835975478592356831&timestamp=1543389654&nonce=561104486
+ERR: 扫码消息 xml:false
+
+[2018-11-28 15:21:46] 140.207.54.80 /book/index.php/Home/Wxpay/Url?signature=c93c95551210feed6e8147cb9c167fbcdaf842fc&timestamp=1543389706&nonce=1693273535&openid=oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: 扫码消息 xml:{"ToUserName":"gh_fe23502e3400","FromUserName":"oAzy9swhz-Geee_EeuJbocnasHZ0","CreateTime":"1543389706","MsgType":"event","Event":"SCAN","EventKey":"55555","Ticket":"gQH_8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAycTY5dzByM1lhWlAxMDAwMDAwM0IAAgRwFPZbAwQAAAAA"}
+
+[2018-11-28 15:28:23] 140.207.54.80 /book/index.php/Home/Wxpay/Url?signature=3ce23869527e838e877e137181bb109fe9532faf&timestamp=1543390103&nonce=1885540595&openid=oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: 扫码消息 xml:{"ToUserName":"gh_fe23502e3400","FromUserName":"oAzy9swhz-Geee_EeuJbocnasHZ0","CreateTime":"1543390103","MsgType":"event","Event":"SCAN","EventKey":"3","Ticket":"gQGe8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0RraXAxNWJtNXpxZTE0YzR2bVRIAAIEr_ZGVwMEAAAAAA=="}
+
+[2018-11-28 15:34:08] 140.207.54.80 /book/index.php/Home/Wxpay/Url?signature=994c58d136f1886dfa6985bb44db5eec2f83ad16&timestamp=1543390448&nonce=1593331824&openid=oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: 扫码消息 xml:{"ToUserName":"gh_fe23502e3400","FromUserName":"oAzy9swhz-Geee_EeuJbocnasHZ0","CreateTime":"1543390448","MsgType":"event","Event":"SCAN","EventKey":"3","Ticket":"gQGe8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0RraXAxNWJtNXpxZTE0YzR2bVRIAAIEr_ZGVwMEAAAAAA=="}
+
+[2018-11-28 15:34:29] 140.207.54.80 /book/index.php/Home/Wxpay/Url?signature=9fad7aa59c46f2a8fec3fb60c5593d4d591ef528&timestamp=1543390469&nonce=481230529&openid=oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: 扫码消息 xml:Array
+
+[2018-11-28 16:17:10] 140.207.54.79 /book/index.php/Home/Wxpay/Url?signature=63ae9b47f48727cf07f093bb08325da1e416cb75&timestamp=1543393029&nonce=1579868653&openid=oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: 扫码消息 xml:Array
+ERR: access_token:16_zWiFp_iVJCiRCyPbVUSfJiKzWlUedG1nd7bJRCKvPrNQtrIfw0fH8nGGVjMao4P1fwsQCBbBC_I2-iZ6WIbeLkqapxlNlisYFJ2D_W6JNW6naYd5ganBjmTQJ_r_yjB5pmo97efClrasdwVNDFFgAHAQSS
+
+[2018-11-28 16:17:54] 140.207.54.80 /book/index.php/Home/Wxpay/Url?signature=3849f3a53e80a1fbb7f54404fadfdb3f67299e7a&timestamp=1543393073&nonce=587642888&openid=oAzy9swhz-Geee_EeuJbocnasHZ0
+ERR: 扫码消息 xml:Array
+ERR: access_token:16_hR0gtvCn30_Z6x1W1RW5lxqBFqh4ZtEvs3zi5dSk8tW61DFFLccEVOJY1MPq28MKQQluiBaX5Qj-8Yths5U5pA8vXmY2U67uhz0pse0zchjbkNyUsQb7dddaedG13vrdHCszma2hrg1AnQgHKIEdAFANLH
+

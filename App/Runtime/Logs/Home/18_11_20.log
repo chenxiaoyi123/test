@@ -1,0 +1,787 @@
+[2018-11-20 08:56:02] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+[2018-11-20 09:01:11] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+[2018-11-20 09:01:45] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+[2018-11-20 09:02:02] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+[2018-11-20 09:02:45] 61.129.8.179 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+[2018-11-20 09:03:11] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[普通商户不允许传sub_mch_id]]></return_msg>
+</xml>
+
+[2018-11-20 09:03:49] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[2VmRURUPkgMwFBJo]]></nonce_str>
+<sign><![CDATA[BB6B423584438DD29700B9CACF3060A3]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[ERROR]]></err_code>
+<err_code_des><![CDATA[商户订单号非法，请核实后再试]]></err_code_des>
+</xml>
+
+[2018-11-20 09:04:55] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[hzVZw28OsuAARlgc]]></nonce_str>
+<sign><![CDATA[F3F591CF4B99B53EDB60380F519FEF7E]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[ERROR]]></err_code>
+<err_code_des><![CDATA[商户订单号非法，请核实后再试]]></err_code_des>
+</xml>
+
+[2018-11-20 09:06:25] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[kP4dMA5GPCTamubg]]></nonce_str>
+<sign><![CDATA[7096D485EC9FEFCD8C38FD157A55F11E]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[交易未结算资金不足，请使用可用余额退款]]></err_code_des>
+</xml>
+
+[2018-11-20 09:20:39] 58.246.103.101 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[RX3NObrQLogvS5Mk]]></nonce_str>
+<sign><![CDATA[5B7C3A99C69AAAC6962E0A4BB96283F9]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20092039470707a2fe5f724c4269149034]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-20 09:20:52] 58.246.103.101 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[UnVCZ7axrr3kNDKE]]></nonce_str>
+<sign><![CDATA[B4D527D4389863490C6C62F77F9C6D22]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx200920527148738119ed143b3455748712]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-20 09:20:57] 140.207.54.73 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[qZrq6mOzAaZwSnCd8]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_15426768524539]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[753DACEC25786BBC49399FE341A59565]]></sign>
+<time_end><![CDATA[20181120092056]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000210201811204369773919]]></transaction_id>
+</xml>
+
+[2018-11-20 09:21:21] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=shcm_0_15426768524539
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[qQCpVgR9KnC1HFOj]]></nonce_str>
+<sign><![CDATA[248A2870F1B34AC671518D13B1FD86B7]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<transaction_id><![CDATA[4200000210201811204369773919]]></transaction_id>
+<out_trade_no><![CDATA[shcm_0_15426768524539]]></out_trade_no>
+<out_refund_no><![CDATA[shcm_0_15426768524539]]></out_refund_no>
+<refund_id><![CDATA[50000708792018112007170156441]]></refund_id>
+<refund_channel><![CDATA[]]></refund_channel>
+<refund_fee>1</refund_fee>
+<coupon_refund_fee>0</coupon_refund_fee>
+<total_fee>1</total_fee>
+<cash_fee>1</cash_fee>
+<coupon_refund_count>0</coupon_refund_count>
+<cash_refund_fee>1</cash_refund_fee>
+</xml>
+
+[2018-11-20 09:21:23] 140.207.54.76 /book/index.php/Home/Wxpay/RefundNotify
+ERR: XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[1516ccf8cd71f46858c30ce1797edec3]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV6DTdxVh5LBeu+6glkLFFpyCksFHd6hJrybnGxlBGM5IOtVQmbTlLqMM9twmJAPu16M5OCOWAdsRnIo6MZITAUWg03cVYeSwXrvuoJZCxRacsouXsmaJ0MLp0Orypy2rBqQeIAAmSPqJV5gMHB1n4Aec/Fuj5mfEfw/8IRAnnS9RQfWduv5GqHjPLmubUiLvJciQw2B+xK52WCgxzSJIpzKDa2lx9mdgyrW0lcUr7q6hb31BDouX2SescDRsnVt7fLpYAHd7mPJZ3lKpgJqnhhVyqheYuqnIjc29BzC63m3moUOg7ttw293qkri4w0W2XNI3nEwi42JePC6WHszhkcOzH4vFXEMAJkXyAIOj7/gF3CbdKEHZQx0Gxp8VSsSIYKRe2flxtjMndYJ4o6sjNStEAQnbqZCkvnnT4h9okri6kli83mWigB+IYh5EsmUU9H1CvwFtG7FqON9K6Z92nC/xdnb3HWoCVyc+3LvSLdJPok19ZsIhDNi9FYHcs37ghnvu/jb/CAS1b9YmxxRDVSO1IFFghtflOIUOsRbzJf9B8Gg0HmXkN8TSju1QU3F5SHVzfBRCaHmsjpFimMHJIRRjBynNv9EjF8oBVXk97ihDzQrhre44XNLQFqOGB4g4ak9m4hKp6JihMsDgua++FyLOA4A8Asynl/jNpss12qEyHpAFliVuxB4tXCW+9kznIDqcUZrIC1HHcCiAiOU5RH7zUjXU5IDoOKXRyP7xFZYtr56X0qkkRoKSbJuKwoMTU+yCIBBLDqMtnXPWnQWMK5PMvGcsOWH9wsbT3CbsJtv+njDBZ5NOHvvYpyIrwOOj3w7je/Ie+zpZFu6DFMeBr7+W/MEvMAoNcdh9SOkwedDiSBbXeMuW6vKZ0WIkeMmimctQsxX1dojdNscttDLM33+/Ytvi6A7GvXKtH0mgPa2eBrK7sfjrmMeXOqpPHc8BmF9p9nFYc2pWFPU4vmaYgVCuXWkEccvE57eM5J7pHi8Oa2OC+s2vD2fu6Pqojhz4lI=]]></req_info></xml>
+
+[2018-11-20 09:21:38] 140.207.54.73 /book/index.php/Home/Wxpay/RefundNotify
+ERR: XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[30a1e45ac8f192d6a0a0ca11749bd1d7]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV6DTdxVh5LBeu+6glkLFFpyCksFHd6hJrybnGxlBGM5IOtVQmbTlLqMM9twmJAPu16M5OCOWAdsRnIo6MZITAUWg03cVYeSwXrvuoJZCxRacsouXsmaJ0MLp0Orypy2rBqQeIAAmSPqJV5gMHB1n4Aec/Fuj5mfEfw/8IRAnnS9RQfWduv5GqHjPLmubUiLvJciQw2B+xK52WCgxzSJIpzKDa2lx9mdgyrW0lcUr7q6hb31BDouX2SescDRsnVt7fLpYAHd7mPJZ3lKpgJqnhhVyqheYuqnIjc29BzC63m3moUOg7ttw293qkri4w0W2XNI3nEwi42JePC6WHszhkcOzH4vFXEMAJkXyAIOj7/gF3CbdKEHZQx0Gxp8VSsSIYKRe2flxtjMndYJ4o6sjNStEAQnbqZCkvnnT4h9okri6kli83mWigB+IYh5EsmUU9H1CvwFtG7FqON9K6Z92nC/xdnb3HWoCVyc+3LvSLdJPok19ZsIhDNi9FYHcs37ghnvu/jb/CAS1b9YmxxRDVSO1IFFghtflOIUOsRbzJf9B8Gg0HmXkN8TSju1QU3F5SHVzfBRCaHmsjpFimMHJIRRjBynNv9EjF8oBVXk97ihDzQrhre44XNLQFqOGB4g4ak9m4hKp6JihMsDgua++FyLOA4A8Asynl/jNpss12qEyHpAFliVuxB4tXCW+9kznIDqcUZrIC1HHcCiAiOU5RH7zUjXU5IDoOKXRyP7xFZYtr56X0qkkRoKSbJuKwoMTU+yCIBBLDqMtnXPWnQWMK5PMvGcsOWH9wsbT3CbsJtv+njDBZ5NOHvvYpyIrwOOj3w7je/Ie+zpZFu6DFMeBr7+W/MEvMAoNcdh9SOkwedDiSBbXeMuW6vKZ0WIkeMmimctQsxX1dojdNscttDLM33+/Ytvi6A7GvXKtH0mgPa2eBrK7sfjrmMeXOqpPHc8BmF9p9nFYc2pWFPU4vmaYgVCuXWkEccvE57eM5J7pHi8Oa2OC+s2vD2fu6Pqojhz4lI=]]></req_info></xml>
+
+[2018-11-20 09:21:54] 140.207.54.73 /book/index.php/Home/Wxpay/RefundNotify
+ERR: XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[25c0b7c6d1be529a973477a6ef42ecd2]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV6DTdxVh5LBeu+6glkLFFpyCksFHd6hJrybnGxlBGM5IOtVQmbTlLqMM9twmJAPu16M5OCOWAdsRnIo6MZITAUWg03cVYeSwXrvuoJZCxRacsouXsmaJ0MLp0Orypy2rBqQeIAAmSPqJV5gMHB1n4Aec/Fuj5mfEfw/8IRAnnS9RQfWduv5GqHjPLmubUiLvJciQw2B+xK52WCgxzSJIpzKDa2lx9mdgyrW0lcUr7q6hb31BDouX2SescDRsnVt7fLpYAHd7mPJZ3lKpgJqnhhVyqheYuqnIjc29BzC63m3moUOg7ttw293qkri4w0W2XNI3nEwi42JePC6WHszhkcOzH4vFXEMAJkXyAIOj7/gF3CbdKEHZQx0Gxp8VSsSIYKRe2flxtjMndYJ4o6sjNStEAQnbqZCkvnnT4h9okri6kli83mWigB+IYh5EsmUU9H1CvwFtG7FqON9K6Z92nC/xdnb3HWoCVyc+3LvSLdJPok19ZsIhDNi9FYHcs37ghnvu/jb/CAS1b9YmxxRDVSO1IFFghtflOIUOsRbzJf9B8Gg0HmXkN8TSju1QU3F5SHVzfBRCaHmsjpFimMHJIRRjBynNv9EjF8oBVXk97ihDzQrhre44XNLQFqOGB4g4ak9m4hKp6JihMsDgua++FyLOA4A8Asynl/jNpss12qEyHpAFliVuxB4tXCW+9kznIDqcUZrIC1HHcCiAiOU5RH7zUjXU5IDoOKXRyP7xFZYtr56X0qkkRoKSbJuKwoMTU+yCIBBLDqMtnXPWnQWMK5PMvGcsOWH9wsbT3CbsJtv+njDBZ5NOHvvYpyIrwOOj3w7je/Ie+zpZFu6DFMeBr7+W/MEvMAoNcdh9SOkwedDiSBbXeMuW6vKZ0WIkeMmimctQsxX1dojdNscttDLM33+/Ytvi6A7GvXKtH0mgPa2eBrK7sfjrmMeXOqpPHc8BmF9p9nFYc2pWFPU4vmaYgVCuXWkEccvE57eM5J7pHi8Oa2OC+s2vD2fu6Pqojhz4lI=]]></req_info></xml>
+
+[2018-11-20 09:22:25] 140.207.54.73 /book/index.php/Home/Wxpay/RefundNotify
+ERR: XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[bbf9a60c520f5cc2be4e37147f055939]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV6DTdxVh5LBeu+6glkLFFpyCksFHd6hJrybnGxlBGM5IOtVQmbTlLqMM9twmJAPu16M5OCOWAdsRnIo6MZITAUWg03cVYeSwXrvuoJZCxRacsouXsmaJ0MLp0Orypy2rBqQeIAAmSPqJV5gMHB1n4Aec/Fuj5mfEfw/8IRAnnS9RQfWduv5GqHjPLmubUiLvJciQw2B+xK52WCgxzSJIpzKDa2lx9mdgyrW0lcUr7q6hb31BDouX2SescDRsnVt7fLpYAHd7mPJZ3lKpgJqnhhVyqheYuqnIjc29BzC63m3moUOg7ttw293qkri4w0W2XNI3nEwi42JePC6WHszhkcOzH4vFXEMAJkXyAIOj7/gF3CbdKEHZQx0Gxp8VSsSIYKRe2flxtjMndYJ4o6sjNStEAQnbqZCkvnnT4h9okri6kli83mWigB+IYh5EsmUU9H1CvwFtG7FqON9K6Z92nC/xdnb3HWoCVyc+3LvSLdJPok19ZsIhDNi9FYHcs37ghnvu/jb/CAS1b9YmxxRDVSO1IFFghtflOIUOsRbzJf9B8Gg0HmXkN8TSju1QU3F5SHVzfBRCaHmsjpFimMHJIRRjBynNv9EjF8oBVXk97ihDzQrhre44XNLQFqOGB4g4ak9m4hKp6JihMsDgua++FyLOA4A8Asynl/jNpss12qEyHpAFliVuxB4tXCW+9kznIDqcUZrIC1HHcCiAiOU5RH7zUjXU5IDoOKXRyP7xFZYtr56X0qkkRoKSbJuKwoMTU+yCIBBLDqMtnXPWnQWMK5PMvGcsOWH9wsbT3CbsJtv+njDBZ5NOHvvYpyIrwOOj3w7je/Ie+zpZFu6DFMeBr7+W/MEvMAoNcdh9SOkwedDiSBbXeMuW6vKZ0WIkeMmimctQsxX1dojdNscttDLM33+/Ytvi6A7GvXKtH0mgPa2eBrK7sfjrmMeXOqpPHc8BmF9p9nFYc2pWFPU4vmaYgVCuXWkEccvE57eM5J7pHi8Oa2OC+s2vD2fu6Pqojhz4lI=]]></req_info></xml>
+
+[2018-11-20 09:25:27] 140.207.54.76 /book/index.php/Home/Wxpay/RefundNotify
+ERR: XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[2e3c81f21f3a8dd9c067f34c124485f5]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV6DTdxVh5LBeu+6glkLFFpyCksFHd6hJrybnGxlBGM5IOtVQmbTlLqMM9twmJAPu16M5OCOWAdsRnIo6MZITAUWg03cVYeSwXrvuoJZCxRacsouXsmaJ0MLp0Orypy2rBqQeIAAmSPqJV5gMHB1n4Aec/Fuj5mfEfw/8IRAnnS9RQfWduv5GqHjPLmubUiLvJciQw2B+xK52WCgxzSJIpzKDa2lx9mdgyrW0lcUr7q6hb31BDouX2SescDRsnVt7fLpYAHd7mPJZ3lKpgJqnhhVyqheYuqnIjc29BzC63m3moUOg7ttw293qkri4w0W2XNI3nEwi42JePC6WHszhkcOzH4vFXEMAJkXyAIOj7/gF3CbdKEHZQx0Gxp8VSsSIYKRe2flxtjMndYJ4o6sjNStEAQnbqZCkvnnT4h9okri6kli83mWigB+IYh5EsmUU9H1CvwFtG7FqON9K6Z92nC/xdnb3HWoCVyc+3LvSLdJPok19ZsIhDNi9FYHcs37ghnvu/jb/CAS1b9YmxxRDVSO1IFFghtflOIUOsRbzJf9B8Gg0HmXkN8TSju1QU3F5SHVzfBRCaHmsjpFimMHJIRRjBynNv9EjF8oBVXk97ihDzQrhre44XNLQFqOGB4g4ak9m4hKp6JihMsDgua++FyLOA4A8Asynl/jNpss12qEyHpAFliVuxB4tXCW+9kznIDqcUZrIC1HHcCiAiOU5RH7zUjXU5IDoOKXRyP7xFZYtr56X0qkkRoKSbJuKwoMTU+yCIBBLDqMtnXPWnQWMK5PMvGcsOWH9wsbT3CbsJtv+njDBZ5NOHvvYpyIrwOOj3w7je/Ie+zpZFu6DFMeBr7+W/MEvMAoNcdh9SOkwedDiSBbXeMuW6vKZ0WIkeMmimctQsxX1dojdNscttDLM33+/Ytvi6A7GvXKtH0mgPa2eBrK7sfjrmMeXOqpPHc8BmF9p9nFYc2pWFPU4vmaYgVCuXWkEccvE57eM5J7pHi8Oa2OC+s2vD2fu6Pqojhz4lI=]]></req_info></xml>
+
+[2018-11-20 09:35:46] 58.246.103.101 /book/index.php/home/api/getRoomList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10,10' at line 1
+ [ SQL语句 ] : SELECT * FROM `booking_room` ORDER BY id DESC LIMIT -10,10  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10,10' at line 1
+ [ SQL语句 ] : SELECT * FROM `booking_room` ORDER BY id DESC LIMIT -10,10  
+
+[2018-11-20 09:38:41] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[RlTiX85S3Es5dgRF]]></nonce_str>
+<sign><![CDATA[994669EC606BFC55A2C19BACB853270E]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[交易未结算资金不足，请使用可用余额退款]]></err_code_des>
+</xml>
+
+[2018-11-20 09:39:50] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[hQKvDZOtt9T3O0C6]]></nonce_str>
+<sign><![CDATA[B6D7E82F0A49C9E8BAB222F9324219C0]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[交易未结算资金不足，请使用可用余额退款]]></err_code_des>
+</xml>
+
+[2018-11-20 09:42:27] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[xNhXFNTkOf3AZECT]]></nonce_str>
+<sign><![CDATA[2054CE10BA94EC29164569A6AC61811D]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[交易未结算资金不足，请使用可用余额退款]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[8WzMpHjl8iVx9rOd]]></nonce_str>
+<sign><![CDATA[DD189BDE336DAA42D57EFD14AFC8121C]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[1rcxLoRaYsIn3IML]]></nonce_str>
+<sign><![CDATA[D94848D19FC3A3C811A3FDDBE5E960F0]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[1Hq8Ip9QIMk6lmMi]]></nonce_str>
+<sign><![CDATA[B5E6064962BCD283204AA688B46BAE34]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[tdcqqVTZp5T48GtD]]></nonce_str>
+<sign><![CDATA[46926733E1642010FDD24A112210C114]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[Y5tqXO8ZrfpWTMgP]]></nonce_str>
+<sign><![CDATA[D2D546F2DE16962D3FFC679FAC733F50]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[1nm4BDqkUcZ001EF]]></nonce_str>
+<sign><![CDATA[43280F8D206C351CA228B30D83B364F9]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[AivhMpIif2mE1AE1]]></nonce_str>
+<sign><![CDATA[DEF82B1E085C96B4F6093DE315FF4400]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[j6fUADBZDUsAZyl2]]></nonce_str>
+<sign><![CDATA[A49ED47874C9BA720983B7B5E84BDF04]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[GTfAY5aS8XPZEQo1]]></nonce_str>
+<sign><![CDATA[292C64D8A30FE0CF9BBBEACA1790005F]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[d5HMzI6HT2KZcOtG]]></nonce_str>
+<sign><![CDATA[77DE5BA6B85EF392A780E080655032F9]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[xmBkpkKGLZLTkspA]]></nonce_str>
+<sign><![CDATA[DFAAE1335573D139024CE384AFF1DE10]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[9n7YWSYQOA5nSI0M]]></nonce_str>
+<sign><![CDATA[FBE873A3283C76C75627B80203A8A30E]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[NKm3pLu134xdeSYA]]></nonce_str>
+<sign><![CDATA[1560C748DC9F2076D6BE7E41106441F4]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[ZkSpUSe1JrcMd49M]]></nonce_str>
+<sign><![CDATA[FA3F605855748E1C0C7E122C32852619]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[GwfjSITXpBUBx8TN]]></nonce_str>
+<sign><![CDATA[02A76234839816DCDEF6D2AB397BD482]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[hSSIGLCTeDNWYaQX]]></nonce_str>
+<sign><![CDATA[89F99E2117083DE023DEC71BAA585AD3]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[F82Xxzmn3L6XNJhl]]></nonce_str>
+<sign><![CDATA[A98732E53061519CE729F159B3A9DA12]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[dngT7Zfh4J37yUHs]]></nonce_str>
+<sign><![CDATA[3E0B32594AEC77AA6BE4666D08B6465E]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[DeLqEXTISTaxWud7]]></nonce_str>
+<sign><![CDATA[41D73C9C3C95FFBD26E2D26348DC8721]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[gGr6ypV34M0Nnai6]]></nonce_str>
+<sign><![CDATA[4CAB5E57474498606D2A1C8A941193CF]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[pK3P2Rx4NjTt6PFZ]]></nonce_str>
+<sign><![CDATA[E2281A05C291768B4D99272F0397FE29]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[nt9Gv6bmsUHTByN9]]></nonce_str>
+<sign><![CDATA[9991A719E872F7ED20B6B2010C5B9143]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[i56n9PjtD9OQu510]]></nonce_str>
+<sign><![CDATA[BFBA6A016D4F87C2CB9A9B0C713BA792]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[WEwLVoo0E6iVZNn5]]></nonce_str>
+<sign><![CDATA[5B1375B0B2D6B1FFC69C57F2F08E25EF]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[sP8HE6Ror8PHWuSy]]></nonce_str>
+<sign><![CDATA[31F387464A95E5F9A2673D30DF915C3B]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[WMRzVCx6Cnb9lNEB]]></nonce_str>
+<sign><![CDATA[235B2280A926FB5C756274926A217D59]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[XxuxZ9HFb887hlQM]]></nonce_str>
+<sign><![CDATA[EA35DADCE7490F3D4D557561EA571F10]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[IGads7RDKFw1Xz52]]></nonce_str>
+<sign><![CDATA[6717374BE16CAAC3A75C04E0B53EB833]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[fdtrG1yYUzkroDol]]></nonce_str>
+<sign><![CDATA[3113B1AF1F0DE0E2B8A9BCE7BC8DF622]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[TjxRujuby1zQTy8z]]></nonce_str>
+<sign><![CDATA[7422FFBEA394DBB7DA9113456730D350]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[pbPp9lTOHw4t8QYL]]></nonce_str>
+<sign><![CDATA[A100ACA4732474A553F438353F43A1F8]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[AQ2RUXG98uk8RtHt]]></nonce_str>
+<sign><![CDATA[2749977C9D28CE3D85BF45E0A6081920]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[xvyYhq5iDp83k5aL]]></nonce_str>
+<sign><![CDATA[F43B84EDEB5EE75120137F8AA8EBCE45]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[2V9EYilgKiTq1NHR]]></nonce_str>
+<sign><![CDATA[BFA6A29747D7ED89BF4B5A535B5E4663]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[8ORIFLr8TJlGE0Qa]]></nonce_str>
+<sign><![CDATA[8C91DE520E992576CF296DED7C392D95]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[5yLGNCFh7qvu7MwS]]></nonce_str>
+<sign><![CDATA[E9548FEA09E785FDBECFCFA792D56738]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[HsgXnijfnndVjYDv]]></nonce_str>
+<sign><![CDATA[AAEC73B01F28FCC32E0964B234EDAD40]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[WTSwuvN9CCtQhV2W]]></nonce_str>
+<sign><![CDATA[13F4BC805BFB99ACF5EE0BAAD44BBB2A]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[j4xvwGJtry1r2Aoi]]></nonce_str>
+<sign><![CDATA[A075CC3F11CFFCDE0D2B79AB5687408C]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[0ogQz53XhdhDSmxy]]></nonce_str>
+<sign><![CDATA[43785983C975CEAC8CDA1000D5BB4EB2]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[dObmhSVyq3TxureS]]></nonce_str>
+<sign><![CDATA[7FA9996A59C0A0A657F24AB09594E81C]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[SQPRKgWJPnVgdFTM]]></nonce_str>
+<sign><![CDATA[1686706452C544205CFCA7118D02EF5A]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+
+[2018-11-20 09:45:00] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+
+[2018-11-20 09:45:47] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[ABcj2jBMgiCAb9n9]]></nonce_str>
+<sign><![CDATA[A2C2EE59859802B21C29670020B6E72E]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[交易未结算资金不足，请使用可用余额退款]]></err_code_des>
+</xml>
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[HfKdKZ40WHpBekBP]]></nonce_str>
+<sign><![CDATA[1C8AA7752D897FFB18B959CAC529CFFF]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[NOTENOUGH]]></err_code>
+<err_code_des><![CDATA[可用余额不足，请充值后重新发起]]></err_code_des>
+</xml>
+
+[2018-11-20 09:54:26] 58.246.103.101 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[pA4KweG0nrpRyNKr]]></nonce_str>
+<sign><![CDATA[E3EBE0B0701EB24AFBD6EC49F0DDB7D9]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20095426982149d61b56f10f3469898881]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-20 09:54:32] 140.207.54.75 /book/index.php/Home/Wxpay/RechargeNotify
+ERR: 更新 XML: <xml><appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<attach><![CDATA[支付测试]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[0N7I4sLyGd0LqZjYd]]></nonce_str>
+<openid><![CDATA[oAzy9swhz-Geee_EeuJbocnasHZ0]]></openid>
+<out_trade_no><![CDATA[shcm_0_154267886639380]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[458FADDF260F86DDAB1D1CF53BAEE1B8]]></sign>
+<time_end><![CDATA[20181120095430]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000220201811201490486747]]></transaction_id>
+</xml>
+
+[2018-11-20 09:54:37] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[aJAoamxTLxynbu8O]]></nonce_str>
+<sign><![CDATA[45F142591E2AAB68D22FD99525C42039]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<transaction_id><![CDATA[4200000223201811196182867460]]></transaction_id>
+<out_trade_no><![CDATA[wx_0_154262126920786]]></out_trade_no>
+<out_refund_no><![CDATA[shcm_0_15426788764857]]></out_refund_no>
+<refund_id><![CDATA[50000408902018112007110904039]]></refund_id>
+<refund_channel><![CDATA[]]></refund_channel>
+<refund_fee>1</refund_fee>
+<coupon_refund_fee>0</coupon_refund_fee>
+<total_fee>1</total_fee>
+<cash_fee>1</cash_fee>
+<coupon_refund_count>0</coupon_refund_count>
+<cash_refund_fee>1</cash_refund_fee>
+</xml>
+
+[2018-11-20 09:54:38] 140.207.54.73 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[8b556feec0205f79b3a6afc6c0ac9b63]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV7MMVl23qJUqjlbjjomxkDTV/VIKfShA5T/x6U3Yp+aL+tVQmbTlLqMM9twmJAPu17ZoOyGAjKKQ+tYbm/5/LaIHOy8CoL/Ft76GdfbX9FeFk27ZHRDg7+fo3eEs4/aUgM7BU6vSXuRa4SPfT5vSn+Ek+PilwG+ZVuJMtc+rOrL0HK0JicwaOfiIXZGmdPlsjfUBis0enZMfHSi95dp6uAWtZI0j+otN50Ikdn/UcY0QLQgHV1mKUw+S76C3eP3IEVo+amuM3jkKKtjvJqml5dhwbfyZP82Y0DCy/IVNPD5iLp/tdFbmog+DEzoRRqb7fShm4pUYrrb2nQnbCKl2ZK8jBvHNzHIO4KCtK5FRc7MMzNTNcW51HlQkzQZH88VROsUCFhIy05qR1QSq6hUbRck5w8wd/3BIIQZKNIZ5E4FCzJ6Rb2P4hqK/L2Gw4iGi3pSqbaskrwaLMe/JJC8yCFYrkjfvm8ohV72Cr5rL05uuRizHnMeyjFAemmTk2R9YjqsqwQnXWCD0/oU1vV9nC06XcsZPDjGTLWaxHUskxQ5KRP7JZYUT+Hnv4KhPoL13GfVSfBgIECoA9f56As/qO/OQ0U8vwcLaccCmxUtdigLbG9PlUwKUfGT03+z5tw5IfgO9oYPxPz1k7PaAmS2g1Cw0b3TK+Dy91zYROdl5oGdCkn5wxk2qL5rv4wu5SIIXqS0MuXN4++5XQ2U9nAgej7Oi/F/F7cQL2hE3PBgJ4keqRRI5/v9veRoUHR3e6Iy18B/64yAukb9ff9Q0PIKMdrb3q5rnxhkcTeLmIGyyCFNotfWBbyIuXT81GH+aXCJ/o/pNqRqMYgfmXjg327eA8CvwY0qOEgKpvjBWEMU0cKc/AYwuMVCVAiXhB6B6HefLS4AfkXHfEvKhYLwR8MjEGt22yF88vevnRGSrplIq2KerrPa6a50DhUAppXiJgn/AT4l3wAiSYXmg/XwNMEDzMtQdQ+MADiorGemA+pw/2Y0uQRLtfh+fKw7ZKV3OxRsYUQ=]]></req_info></xml>
+
+[2018-11-20 09:54:54] 140.207.54.76 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[6adc4136c16d8cf64519d3754a43c749]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV7MMVl23qJUqjlbjjomxkDTV/VIKfShA5T/x6U3Yp+aL+tVQmbTlLqMM9twmJAPu17ZoOyGAjKKQ+tYbm/5/LaIHOy8CoL/Ft76GdfbX9FeFk27ZHRDg7+fo3eEs4/aUgM7BU6vSXuRa4SPfT5vSn+Ek+PilwG+ZVuJMtc+rOrL0HK0JicwaOfiIXZGmdPlsjfUBis0enZMfHSi95dp6uAWtZI0j+otN50Ikdn/UcY0QLQgHV1mKUw+S76C3eP3IEVo+amuM3jkKKtjvJqml5dhwbfyZP82Y0DCy/IVNPD5iLp/tdFbmog+DEzoRRqb7fShm4pUYrrb2nQnbCKl2ZK8jBvHNzHIO4KCtK5FRc7MMzNTNcW51HlQkzQZH88VROsUCFhIy05qR1QSq6hUbRck5w8wd/3BIIQZKNIZ5E4FCzJ6Rb2P4hqK/L2Gw4iGi3pSqbaskrwaLMe/JJC8yCFYrkjfvm8ohV72Cr5rL05uuRizHnMeyjFAemmTk2R9YjqsqwQnXWCD0/oU1vV9nC06XcsZPDjGTLWaxHUskxQ5KRP7JZYUT+Hnv4KhPoL13GfVSfBgIECoA9f56As/qO/OQ0U8vwcLaccCmxUtdigLbG9PlUwKUfGT03+z5tw5IfgO9oYPxPz1k7PaAmS2g1Cw0b3TK+Dy91zYROdl5oGdCkn5wxk2qL5rv4wu5SIIXqS0MuXN4++5XQ2U9nAgej7Oi/F/F7cQL2hE3PBgJ4keqRRI5/v9veRoUHR3e6Iy18B/64yAukb9ff9Q0PIKMdrb3q5rnxhkcTeLmIGyyCFNotfWBbyIuXT81GH+aXCJ/o/pNqRqMYgfmXjg327eA8CvwY0qOEgKpvjBWEMU0cKc/AYwuMVCVAiXhB6B6HefLS4AfkXHfEvKhYLwR8MjEGt22yF88vevnRGSrplIq2KerrPa6a50DhUAppXiJgn/AT4l3wAiSYXmg/XwNMEDzMtQdQ+MADiorGemA+pw/2Y0uQRLtfh+fKw7ZKV3OxRsYUQ=]]></req_info></xml>
+
+[2018-11-20 09:55:10] 140.207.54.73 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[880a72d4a04309a11dbfd8a4313dab09]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV7MMVl23qJUqjlbjjomxkDTV/VIKfShA5T/x6U3Yp+aL+tVQmbTlLqMM9twmJAPu17ZoOyGAjKKQ+tYbm/5/LaIHOy8CoL/Ft76GdfbX9FeFk27ZHRDg7+fo3eEs4/aUgM7BU6vSXuRa4SPfT5vSn+Ek+PilwG+ZVuJMtc+rOrL0HK0JicwaOfiIXZGmdPlsjfUBis0enZMfHSi95dp6uAWtZI0j+otN50Ikdn/UcY0QLQgHV1mKUw+S76C3eP3IEVo+amuM3jkKKtjvJqml5dhwbfyZP82Y0DCy/IVNPD5iLp/tdFbmog+DEzoRRqb7fShm4pUYrrb2nQnbCKl2ZK8jBvHNzHIO4KCtK5FRc7MMzNTNcW51HlQkzQZH88VROsUCFhIy05qR1QSq6hUbRck5w8wd/3BIIQZKNIZ5E4FCzJ6Rb2P4hqK/L2Gw4iGi3pSqbaskrwaLMe/JJC8yCFYrkjfvm8ohV72Cr5rL05uuRizHnMeyjFAemmTk2R9YjqsqwQnXWCD0/oU1vV9nC06XcsZPDjGTLWaxHUskxQ5KRP7JZYUT+Hnv4KhPoL13GfVSfBgIECoA9f56As/qO/OQ0U8vwcLaccCmxUtdigLbG9PlUwKUfGT03+z5tw5IfgO9oYPxPz1k7PaAmS2g1Cw0b3TK+Dy91zYROdl5oGdCkn5wxk2qL5rv4wu5SIIXqS0MuXN4++5XQ2U9nAgej7Oi/F/F7cQL2hE3PBgJ4keqRRI5/v9veRoUHR3e6Iy18B/64yAukb9ff9Q0PIKMdrb3q5rnxhkcTeLmIGyyCFNotfWBbyIuXT81GH+aXCJ/o/pNqRqMYgfmXjg327eA8CvwY0qOEgKpvjBWEMU0cKc/AYwuMVCVAiXhB6B6HefLS4AfkXHfEvKhYLwR8MjEGt22yF88vevnRGSrplIq2KerrPa6a50DhUAppXiJgn/AT4l3wAiSYXmg/XwNMEDzMtQdQ+MADiorGemA+pw/2Y0uQRLtfh+fKw7ZKV3OxRsYUQ=]]></req_info></xml>
+
+[2018-11-20 09:55:26] 101.91.60.106 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[OcjrRowcFNtbNKfz]]></nonce_str>
+<sign><![CDATA[54D0FC11AEEAD15824CC4D884EC8E080]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx2009552675250597038cbf1e1779809046]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-20 09:55:40] 140.207.54.76 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[3a8a437103157da3e087a5467a00cc2d]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV7MMVl23qJUqjlbjjomxkDTV/VIKfShA5T/x6U3Yp+aL+tVQmbTlLqMM9twmJAPu17ZoOyGAjKKQ+tYbm/5/LaIHOy8CoL/Ft76GdfbX9FeFk27ZHRDg7+fo3eEs4/aUgM7BU6vSXuRa4SPfT5vSn+Ek+PilwG+ZVuJMtc+rOrL0HK0JicwaOfiIXZGmdPlsjfUBis0enZMfHSi95dp6uAWtZI0j+otN50Ikdn/UcY0QLQgHV1mKUw+S76C3eP3IEVo+amuM3jkKKtjvJqml5dhwbfyZP82Y0DCy/IVNPD5iLp/tdFbmog+DEzoRRqb7fShm4pUYrrb2nQnbCKl2ZK8jBvHNzHIO4KCtK5FRc7MMzNTNcW51HlQkzQZH88VROsUCFhIy05qR1QSq6hUbRck5w8wd/3BIIQZKNIZ5E4FCzJ6Rb2P4hqK/L2Gw4iGi3pSqbaskrwaLMe/JJC8yCFYrkjfvm8ohV72Cr5rL05uuRizHnMeyjFAemmTk2R9YjqsqwQnXWCD0/oU1vV9nC06XcsZPDjGTLWaxHUskxQ5KRP7JZYUT+Hnv4KhPoL13GfVSfBgIECoA9f56As/qO/OQ0U8vwcLaccCmxUtdigLbG9PlUwKUfGT03+z5tw5IfgO9oYPxPz1k7PaAmS2g1Cw0b3TK+Dy91zYROdl5oGdCkn5wxk2qL5rv4wu5SIIXqS0MuXN4++5XQ2U9nAgej7Oi/F/F7cQL2hE3PBgJ4keqRRI5/v9veRoUHR3e6Iy18B/64yAukb9ff9Q0PIKMdrb3q5rnxhkcTeLmIGyyCFNotfWBbyIuXT81GH+aXCJ/o/pNqRqMYgfmXjg327eA8CvwY0qOEgKpvjBWEMU0cKc/AYwuMVCVAiXhB6B6HefLS4AfkXHfEvKhYLwR8MjEGt22yF88vevnRGSrplIq2KerrPa6a50DhUAppXiJgn/AT4l3wAiSYXmg/XwNMEDzMtQdQ+MADiorGemA+pw/2Y0uQRLtfh+fKw7ZKV3OxRsYUQ=]]></req_info></xml>
+
+[2018-11-20 09:58:41] 140.207.54.73 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[c1895c315d8351f4d169f07ebcbcb72e]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV7MMVl23qJUqjlbjjomxkDTV/VIKfShA5T/x6U3Yp+aL+tVQmbTlLqMM9twmJAPu17ZoOyGAjKKQ+tYbm/5/LaIHOy8CoL/Ft76GdfbX9FeFk27ZHRDg7+fo3eEs4/aUgM7BU6vSXuRa4SPfT5vSn+Ek+PilwG+ZVuJMtc+rOrL0HK0JicwaOfiIXZGmdPlsjfUBis0enZMfHSi95dp6uAWtZI0j+otN50Ikdn/UcY0QLQgHV1mKUw+S76C3eP3IEVo+amuM3jkKKtjvJqml5dhwbfyZP82Y0DCy/IVNPD5iLp/tdFbmog+DEzoRRqb7fShm4pUYrrb2nQnbCKl2ZK8jBvHNzHIO4KCtK5FRc7MMzNTNcW51HlQkzQZH88VROsUCFhIy05qR1QSq6hUbRck5w8wd/3BIIQZKNIZ5E4FCzJ6Rb2P4hqK/L2Gw4iGi3pSqbaskrwaLMe/JJC8yCFYrkjfvm8ohV72Cr5rL05uuRizHnMeyjFAemmTk2R9YjqsqwQnXWCD0/oU1vV9nC06XcsZPDjGTLWaxHUskxQ5KRP7JZYUT+Hnv4KhPoL13GfVSfBgIECoA9f56As/qO/OQ0U8vwcLaccCmxUtdigLbG9PlUwKUfGT03+z5tw5IfgO9oYPxPz1k7PaAmS2g1Cw0b3TK+Dy91zYROdl5oGdCkn5wxk2qL5rv4wu5SIIXqS0MuXN4++5XQ2U9nAgej7Oi/F/F7cQL2hE3PBgJ4keqRRI5/v9veRoUHR3e6Iy18B/64yAukb9ff9Q0PIKMdrb3q5rnxhkcTeLmIGyyCFNotfWBbyIuXT81GH+aXCJ/o/pNqRqMYgfmXjg327eA8CvwY0qOEgKpvjBWEMU0cKc/AYwuMVCVAiXhB6B6HefLS4AfkXHfEvKhYLwR8MjEGt22yF88vevnRGSrplIq2KerrPa6a50DhUAppXiJgn/AT4l3wAiSYXmg/XwNMEDzMtQdQ+MADiorGemA+pw/2Y0uQRLtfh+fKw7ZKV3OxRsYUQ=]]></req_info></xml>
+
+[2018-11-20 10:25:33] 140.207.54.76 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[5d9b6d18eb673ac76cfc1e25143532c7]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV6DTdxVh5LBeu+6glkLFFpyCksFHd6hJrybnGxlBGM5IOtVQmbTlLqMM9twmJAPu16M5OCOWAdsRnIo6MZITAUWg03cVYeSwXrvuoJZCxRacsouXsmaJ0MLp0Orypy2rBqQeIAAmSPqJV5gMHB1n4Aec/Fuj5mfEfw/8IRAnnS9RQfWduv5GqHjPLmubUiLvJciQw2B+xK52WCgxzSJIpzKDa2lx9mdgyrW0lcUr7q6hb31BDouX2SescDRsnVt7fLpYAHd7mPJZ3lKpgJqnhhVyqheYuqnIjc29BzC63m3moUOg7ttw293qkri4w0W2XNI3nEwi42JePC6WHszhkcOzH4vFXEMAJkXyAIOj7/gF3CbdKEHZQx0Gxp8VSsSIYKRe2flxtjMndYJ4o6sjNStEAQnbqZCkvnnT4h9okri6kli83mWigB+IYh5EsmUU9H1CvwFtG7FqON9K6Z92nC/xdnb3HWoCVyc+3LvSLdJPok19ZsIhDNi9FYHcs37ghnvu/jb/CAS1b9YmxxRDVSO1IFFghtflOIUOsRbzJf9B8Gg0HmXkN8TSju1QU3F5SHVzfBRCaHmsjpFimMHJIRRjBynNv9EjF8oBVXk97ihDzQrhre44XNLQFqOGB4g4ak9m4hKp6JihMsDgua++FyLOA4A8Asynl/jNpss12qEyHpAFliVuxB4tXCW+9kznIDqcUZrIC1HHcCiAiOU5RH7zUjXU5IDoOKXRyP7xFZYtr56X0qkkRoKSbJuKwoMTU+yCIBBLDqMtnXPWnQWMK5PMvGcsOWH9wsbT3CbsJtv+njDBZ5NOHvvYpyIrwOOj3w7je/Ie+zpZFu6DFMeBr7+W/MEvMAoNcdh9SOkwedDiSBbXeMuW6vKZ0WIkeMmimctQsxX1dojdNscttDLM33+/Ytvi6A7GvXKtH0mgPa2eBrK7sfjrmMeXOqpPHc8BmF9p9nFYc2pWFPU4vmaYgVCuXWkEccvE57eM5J7pHi8Oa2OC+s2vD2fu6Pqojhz4lI=]]></req_info></xml>
+
+[2018-11-20 10:28:41] 140.207.54.76 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[4b4acf5d51ca6d4f8442b38316f45108]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV7MMVl23qJUqjlbjjomxkDTV/VIKfShA5T/x6U3Yp+aL+tVQmbTlLqMM9twmJAPu17ZoOyGAjKKQ+tYbm/5/LaIHOy8CoL/Ft76GdfbX9FeFk27ZHRDg7+fo3eEs4/aUgM7BU6vSXuRa4SPfT5vSn+Ek+PilwG+ZVuJMtc+rOrL0HK0JicwaOfiIXZGmdPlsjfUBis0enZMfHSi95dp6uAWtZI0j+otN50Ikdn/UcY0QLQgHV1mKUw+S76C3eP3IEVo+amuM3jkKKtjvJqml5dhwbfyZP82Y0DCy/IVNPD5iLp/tdFbmog+DEzoRRqb7fShm4pUYrrb2nQnbCKl2ZK8jBvHNzHIO4KCtK5FRc7MMzNTNcW51HlQkzQZH88VROsUCFhIy05qR1QSq6hUbRck5w8wd/3BIIQZKNIZ5E4FCzJ6Rb2P4hqK/L2Gw4iGi3pSqbaskrwaLMe/JJC8yCFYrkjfvm8ohV72Cr5rL05uuRizHnMeyjFAemmTk2R9YjqsqwQnXWCD0/oU1vV9nC06XcsZPDjGTLWaxHUskxQ5KRP7JZYUT+Hnv4KhPoL13GfVSfBgIECoA9f56As/qO/OQ0U8vwcLaccCmxUtdigLbG9PlUwKUfGT03+z5tw5IfgO9oYPxPz1k7PaAmS2g1Cw0b3TK+Dy91zYROdl5oGdCkn5wxk2qL5rv4wu5SIIXqS0MuXN4++5XQ2U9nAgej7Oi/F/F7cQL2hE3PBgJ4keqRRI5/v9veRoUHR3e6Iy18B/64yAukb9ff9Q0PIKMdrb3q5rnxhkcTeLmIGyyCFNotfWBbyIuXT81GH+aXCJ/o/pNqRqMYgfmXjg327eA8CvwY0qOEgKpvjBWEMU0cKc/AYwuMVCVAiXhB6B6HefLS4AfkXHfEvKhYLwR8MjEGt22yF88vevnRGSrplIq2KerrPa6a50DhUAppXiJgn/AT4l3wAiSYXmg/XwNMEDzMtQdQ+MADiorGemA+pw/2Y0uQRLtfh+fKw7ZKV3OxRsYUQ=]]></req_info></xml>
+
+[2018-11-20 10:55:34] 140.207.54.73 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[7eba0d52c02e678d532860b36dcf4697]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV6DTdxVh5LBeu+6glkLFFpyCksFHd6hJrybnGxlBGM5IOtVQmbTlLqMM9twmJAPu16M5OCOWAdsRnIo6MZITAUWg03cVYeSwXrvuoJZCxRacsouXsmaJ0MLp0Orypy2rBqQeIAAmSPqJV5gMHB1n4Aec/Fuj5mfEfw/8IRAnnS9RQfWduv5GqHjPLmubUiLvJciQw2B+xK52WCgxzSJIpzKDa2lx9mdgyrW0lcUr7q6hb31BDouX2SescDRsnVt7fLpYAHd7mPJZ3lKpgJqnhhVyqheYuqnIjc29BzC63m3moUOg7ttw293qkri4w0W2XNI3nEwi42JePC6WHszhkcOzH4vFXEMAJkXyAIOj7/gF3CbdKEHZQx0Gxp8VSsSIYKRe2flxtjMndYJ4o6sjNStEAQnbqZCkvnnT4h9okri6kli83mWigB+IYh5EsmUU9H1CvwFtG7FqON9K6Z92nC/xdnb3HWoCVyc+3LvSLdJPok19ZsIhDNi9FYHcs37ghnvu/jb/CAS1b9YmxxRDVSO1IFFghtflOIUOsRbzJf9B8Gg0HmXkN8TSju1QU3F5SHVzfBRCaHmsjpFimMHJIRRjBynNv9EjF8oBVXk97ihDzQrhre44XNLQFqOGB4g4ak9m4hKp6JihMsDgua++FyLOA4A8Asynl/jNpss12qEyHpAFliVuxB4tXCW+9kznIDqcUZrIC1HHcCiAiOU5RH7zUjXU5IDoOKXRyP7xFZYtr56X0qkkRoKSbJuKwoMTU+yCIBBLDqMtnXPWnQWMK5PMvGcsOWH9wsbT3CbsJtv+njDBZ5NOHvvYpyIrwOOj3w7je/Ie+zpZFu6DFMeBr7+W/MEvMAoNcdh9SOkwedDiSBbXeMuW6vKZ0WIkeMmimctQsxX1dojdNscttDLM33+/Ytvi6A7GvXKtH0mgPa2eBrK7sfjrmMeXOqpPHc8BmF9p9nFYc2pWFPU4vmaYgVCuXWkEccvE57eM5J7pHi8Oa2OC+s2vD2fu6Pqojhz4lI=]]></req_info></xml>
+
+[2018-11-20 10:57:23] 58.246.103.101 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[7sAi2B8q3tD7YW4l]]></nonce_str>
+<sign><![CDATA[F33E0A99D92B0BD4D5E795F6E6698583]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20105723830240936e3180960727407707]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-20 10:57:26] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[oa6YEAAZDdfr8CBk]]></nonce_str>
+<sign><![CDATA[339BECF40F082257562C1FBF71654A73]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[ERROR]]></err_code>
+<err_code_des><![CDATA[订单已全额退款]]></err_code_des>
+</xml>
+
+[2018-11-20 10:58:41] 140.207.54.76 /book/index.php/Home/Wxpay/RefundNotify
+ERR: 退款XML: <xml><return_code>SUCCESS</return_code><appid><![CDATA[wx7d0494284af1af9c]]></appid><mch_id><![CDATA[1251297501]]></mch_id><nonce_str><![CDATA[ca421aa434feda6e22f8b7359e1ae958]]></nonce_str><req_info><![CDATA[5/bVgAvuwGyNa8BEe66ujjSm7Yn3riJYXi+kZ/62iV7MMVl23qJUqjlbjjomxkDTV/VIKfShA5T/x6U3Yp+aL+tVQmbTlLqMM9twmJAPu17ZoOyGAjKKQ+tYbm/5/LaIHOy8CoL/Ft76GdfbX9FeFk27ZHRDg7+fo3eEs4/aUgM7BU6vSXuRa4SPfT5vSn+Ek+PilwG+ZVuJMtc+rOrL0HK0JicwaOfiIXZGmdPlsjfUBis0enZMfHSi95dp6uAWtZI0j+otN50Ikdn/UcY0QLQgHV1mKUw+S76C3eP3IEVo+amuM3jkKKtjvJqml5dhwbfyZP82Y0DCy/IVNPD5iLp/tdFbmog+DEzoRRqb7fShm4pUYrrb2nQnbCKl2ZK8jBvHNzHIO4KCtK5FRc7MMzNTNcW51HlQkzQZH88VROsUCFhIy05qR1QSq6hUbRck5w8wd/3BIIQZKNIZ5E4FCzJ6Rb2P4hqK/L2Gw4iGi3pSqbaskrwaLMe/JJC8yCFYrkjfvm8ohV72Cr5rL05uuRizHnMeyjFAemmTk2R9YjqsqwQnXWCD0/oU1vV9nC06XcsZPDjGTLWaxHUskxQ5KRP7JZYUT+Hnv4KhPoL13GfVSfBgIECoA9f56As/qO/OQ0U8vwcLaccCmxUtdigLbG9PlUwKUfGT03+z5tw5IfgO9oYPxPz1k7PaAmS2g1Cw0b3TK+Dy91zYROdl5oGdCkn5wxk2qL5rv4wu5SIIXqS0MuXN4++5XQ2U9nAgej7Oi/F/F7cQL2hE3PBgJ4keqRRI5/v9veRoUHR3e6Iy18B/64yAukb9ff9Q0PIKMdrb3q5rnxhkcTeLmIGyyCFNotfWBbyIuXT81GH+aXCJ/o/pNqRqMYgfmXjg327eA8CvwY0qOEgKpvjBWEMU0cKc/AYwuMVCVAiXhB6B6HefLS4AfkXHfEvKhYLwR8MjEGt22yF88vevnRGSrplIq2KerrPa6a50DhUAppXiJgn/AT4l3wAiSYXmg/XwNMEDzMtQdQ+MADiorGemA+pw/2Y0uQRLtfh+fKw7ZKV3OxRsYUQ=]]></req_info></xml>
+
+[2018-11-20 11:17:58] 58.246.103.101 /book/index.php/Home/Wxpay/test
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[VuILvXYasDUGfW84]]></nonce_str>
+<sign><![CDATA[52894B645E4F0013FF6C668ECB1EBE48]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20111758502392f96afc984c3051693356]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+
+[2018-11-20 11:18:02] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[ZEBeVwMVjihg6Qq5]]></nonce_str>
+<sign><![CDATA[026379604DA05E0B855B851CD4392881]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[ERROR]]></err_code>
+<err_code_des><![CDATA[订单已全额退款]]></err_code_des>
+</xml>
+
+[2018-11-20 11:18:32] 58.246.103.101 /book/index.php/Home/Wxpay/Refund?order_no=wx_0_154262126920786
+ERR: xml:<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7d0494284af1af9c]]></appid>
+<mch_id><![CDATA[1251297501]]></mch_id>
+<nonce_str><![CDATA[r4xEHn2NbRIBLmBV]]></nonce_str>
+<sign><![CDATA[AA18DF790BD50B62061AA50B88D2969D]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[ERROR]]></err_code>
+<err_code_des><![CDATA[订单已全额退款]]></err_code_des>
+</xml>
+

@@ -1,0 +1,66 @@
+[2018-11-13 11:45:49] 58.246.102.101 /book/index.php/Home/index/index
+ERR: 非法操作:index
+
+[2018-11-13 14:55:34] 58.246.102.101 /book/index.php/home/api/insertRoom?data=%7B%22title%22:%221111%22,%22summary%22:%22111%22,%22sid%22:%221%22,%22price%22:1,%22sell%22:1,%22status%22:true%7D
+ERR: 非法操作:insertRoom
+
+[2018-11-13 16:03:32] 58.246.102.101 /book/index.php/home/api/insertRoom
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+
+[2018-11-13 16:03:56] 58.246.102.101 /book/index.php/home/api/insertRoom
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+
+[2018-11-13 16:11:33] 58.246.102.101 /book/index.php/home/api/insertRoom
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+
+[2018-11-13 16:12:31] 58.246.102.101 /book/index.php/home/api/insertRoom
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+
+[2018-11-13 16:13:38] 58.246.102.101 /book/index.php/home/api/insertRoom
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+
+[2018-11-13 16:14:08] 58.246.102.101 /book/index.php/home/api/insertRoom
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+
+[2018-11-13 16:15:02] 58.246.102.101 /book/index.php/home/api/insertRoom
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+
+[2018-11-13 16:15:27] 58.246.102.101 /book/index.php/home/api/insertRoom
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+
+[2018-11-13 16:16:10] 58.246.102.101 /book/index.php/home/api/insertRoom
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+ERR: 1146:Table 'wxunicom.wcu_room' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wcu_room`
+
+[2018-11-13 16:47:48] 58.246.102.101 /book/index.php/home/api/member/get_member
+ERR: 非法操作:member
+
+[2018-11-13 17:20:03] 58.246.102.101 /book/index.php/home/api/getRoomList
+ERR: 非法操作:getRoomList
+

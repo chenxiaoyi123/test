@@ -1,0 +1,15 @@
+[2018-01-09 15:35:47] 106.11.228.166 /index.php?m=member&c=index&a=register&siteid=1
+ERR: 无法加载模块:Member
+
+[2018-01-09 15:35:47] 106.11.231.59 /index.php?m=wap&a=index&siteid=1
+ERR: 无法加载模块:Wap
+
+[2018-01-09 15:50:45] 106.11.231.15 /index.php/'%22+onmouseover=alert()+d='%22/?&_=1514348239727
+ERR: 无法加载模块:'"+onmouseover=alert()+d='"
+
+[2018-01-09 15:51:15] 106.11.228.211 /index.php/%27%22%20onmouseover%3Dalert%28%29%20d%3D%27%22/?&_=1514348239727
+ERR: 无法加载模块:'" onmouseover=alert() d='"
+
+[2018-01-09 15:51:46] 106.11.228.230 /index.php/%2527%2522%2520onmouseover%253Dalert%2528%2529%2520d%253D%2527%2522/?&_=1514348239727
+ERR: 无法加载模块:%27%22%20onmouseover%3Dalert%28%29%20d%3D%27%22
+

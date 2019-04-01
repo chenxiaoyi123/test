@@ -1,0 +1,280 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+p,span{
+    font-size: .24rem;
+    margin:0;
+    padding:0;
+}
+.bg{
+    width: 100%;
+ height: 100%;
+    background: url(../Image/112img/bg1.jpg) no-repeat;
+      background-size:100% 100%
+}
+.input-list{
+     width: 60%;
+     height: .5rem;
+     border:1px solid rgb(220,217,217);
+     border-radius: 5px;
+     margin-left: 20%;
+     margin-bottom: 0.2rem;
+     position: relative;
+     top:6rem;
+}
+
+.id,.num{
+   background: none;
+   position: relative;
+   top:-0.6rem;
+   height: .4rem;
+   width: 70%;
+   border:none;
+   left: 0.1rem;
+font-size:.25rem;
+   color:#fff
+}
+.first img{
+    position: relative;
+    top:-0.53rem;
+    left: 0.2rem;
+    width: 8%;
+}
+.second{
+     width: 30%;
+}
+.second input{
+    width: 80%;
+}
+.second button{
+    width: 80%;
+    font-size: .2rem;
+    position: relative;
+    top:-1.78rem;
+    left: 2.1rem;
+    height: .55rem;
+    background: none;
+    border-radius: 5px;
+    border:1px solid rgb(60,114,175);
+    color:rgb(60,114,175)
+}
+.p1now{
+    width: 40%;
+    height: .6rem;
+    background: rgb(255,213,0);
+    color:rgb(244,45,40);
+   
+    border:none;
+    border-radius:5px;
+
+    position: relative;
+    left:30%;
+    top:6.5rem;
+    font-size: .26rem;
+}
+.bg span{
+   
+    font-size: .22rem;
+    color:#fff;
+     position: relative;
+     top:7.5rem;
+     margin: 0;
+     padding: 0;
+    left: -.7rem;
+}
+ #shu{
+    margin: 0 0.1rem;
+}
+
+/* page2 */
+.p2bg{
+    width: 100%;
+    height: 100%;
+    background: url(../Image/112img/bg2.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.showesim,.list-group{
+    width: 80%;
+    margin-left: 10%;
+    height: .5rem;
+    color: rgb(255, 5, 5);
+    background: #fff;
+    border: 1px solid rgb(243,0,0);
+    border-radius: 5px;
+    position: relative;
+    top:5.7rem;
+}
+
+.showesim span{
+    position: relative;
+    top:-.6rem;
+    left:.2rem;
+}
+.list-group{
+
+ margin-top: .2rem;
+ display: -webkit-flex;
+ display: -moz-flex;
+ display: flex;
+ -moz-box-orient: horizontal;
+ height: .6rem;
+ 
+}
+.tit{
+    -webkit-flex: 1;
+   line-height: .6rem;
+    flex: 1;
+
+    text-align: center;
+    border-right: 1px solid red;
+    font-size: .2rem;
+}
+.list-group2{
+    width: 80%;
+    height: .6rem;
+    margin-left: 10%;
+   
+    color: rgb(255, 5, 5);
+    background: #fff;
+    border: 1px solid rgb(243,0,0);
+    border-radius: 5px;
+    position: relative;
+    top:5.67rem;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: flex;
+    -moz-box-orient: horizontal;
+}
+.list-group2 tit{
+    -webkit-flex: 1;
+    flex: 1;
+    margin-top: .1rem;
+    text-align: center;
+    border-right: 1px solid red;
+    font-size: .2rem;
+  line-height: .6rem;
+    top:-0.5rem;
+}
+.zs{
+    color: #fff;
+    position: relative;
+    top:5rem;
+    left:10%;
+}
+.agree{
+    position: relative;
+    top:4.8rem;
+    left: 1.5rem;
+}
+.p2now{
+    width: 40%;
+    height: .5rem;
+    background: rgb(255,213,0);
+    color:rgb(244,45,40);
+   
+    border:none;
+    border-radius:5px;
+
+    position: relative;
+    left:30%;
+    top:4.2rem;
+    font-size: .26rem;
+}
+.myorder,.helpnum{
+    font-size: .22rem;
+    color:#fff;
+     position: relative;
+     top:4.8rem;
+     margin: 0;
+     padding: 0;
+    left: -.7rem;
+
+}
+.p3bg{
+    width: 100%;
+    height: 100%;
+    background: url(../Image/112img/bg3.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.p4bg{
+    width: 100%;
+    height: 100%;
+    background: url(../Image/112img/bg4.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.p4now{
+    width: 40%;
+    height: .5rem;
+    background: rgb(255,213,0);
+    color:rgb(244,45,40);
+   
+    border:none;
+    border-radius:5px;
+
+    position: relative;
+    left:30%;
+    top:6.3rem;
+    font-size: .26rem;
+}
+.p4myorder,.p4helpnum{
+    font-size: .22rem;
+    color:#fff;
+     position: relative;
+     top:9.1rem;
+     margin: 0;
+     padding: 0;
+    left: -.7rem;
+}
+
+.endbg { 
+  width: 100%;
+  height: 100%
+}
+.endimg{
+ width: 100%;
+}
+.ordermess {
+   background: rgb(238,238,238);
+    color:rgb(136,136,136);
+    height:.6rem ;
+    line-height: .6rem;
+    margin-top: -.25rem;
+    padding-left: .2rem;
+}
+.endtit{
+    width: 100%;
+  
+    background: #fff;
+    height: .8rem;
+    border-bottom: 1px solid rgb(238,238,238);
+}
+.endtit img{
+    position: relative;
+    top:-.32rem;
+    left:.3rem;
+    display: inline-block;
+}
+.endtit span{
+    position: relative;
+    top:-.42rem;
+    left: .2rem;
+}
+.endcontent span{
+float: right;
+margin-right:.1rem;
+}
+.endcontent p{
+    margin:.1rem;
+    color:#000;
+}
+.endcontent{
+    border-bottom: 1px solid rgb(238,238,238);
+
+}
+.allmoney{
+    float:right;margin-right:.2rem;margin-top:.2rem;
+}
